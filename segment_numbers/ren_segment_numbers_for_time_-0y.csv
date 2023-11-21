@@ -1,0 +1,624 @@
+Instrument,Segment Name,year
+000537.SZ,New energy power,FY0
+000539.SZ,Electricity and Related Produtcs,FY0
+000629.SZ,Vanadium products,FY0
+000629.SZ,Titanium products,FY0
+000629.SZ,Other Products,FY0
+000629.SZ,Electricity,FY0
+000629.SZ,Other business,FY0
+000883.SZ,Hydroelectric Power,FY0
+000883.SZ,Other,FY0
+000883.SZ,Thermal Power,FY0
+000883.SZ,Coal,FY0
+000883.SZ,New energy,FY0
+000883.SZ,Eliminations,FY0
+002060.SZ,Other,FY0
+002060.SZ,Engineering Construction,FY0
+002060.SZ,Exploration design,FY0
+002060.SZ,Power,FY0
+002060.SZ,Product sales,FY0
+002545.SZ,Other,FY0
+002545.SZ,Construction/Installation,FY0
+002545.SZ,Tower Manufacturing,FY0
+002545.SZ,Potash Fertilizer,FY0
+002545.SZ,Photovoltaic Power Generation,FY0
+071320.KS,Cold Water,FY0
+071320.KS,Heat Segement,FY0
+071320.KS,Electricity Segment,FY0
+1811.HK,Management companies,FY0
+1811.HK,Power Plants in the Korea,FY0
+1811.HK,Power Plants in the Peoples Republic China,FY0
+2083.SE,Corporate,FY0
+2083.SE,Tawreed,FY0
+2083.SE,JWAP,FY0
+2083.SE,Gas,FY0
+2083.SE,Eliminations,FY0
+2083.SE,Power,FY0
+2083.SE,Water,FY0
+2380.HK,Hydropower Electricity,FY0
+2380.HK,Coal Fired Electricity,FY0
+2380.HK,Photovoltaic power electricity,FY0
+2380.HK,Wind Power Electricity,FY0
+2380.HK,Energy Storage,FY0
+300569.SZ,Elimination,FY0
+300569.SZ,Tower Manufacturing,FY0
+300569.SZ,New energy,FY0
+300772.SZ,Wind Industry,FY0
+300772.SZ,Eliminations,FY0
+300772.SZ,Wind power equipment and smart services,FY0
+300772.SZ,New energy EPC general contracting business,FY0
+3038.T,Super Business ,FY0
+3038.T,Eliminations and Corporate,FY0
+3038.T,Eco renewable energy,FY0
+3038.T,Other,FY0
+3038.T,Restaurant/takeout business,FY0
+5110.SE,Elimination Intercompany transactions,FY0
+5110.SE,Other subsidiares,FY0
+5110.SE,National Grid Company,FY0
+5110.SE,Saudi Electricity Company,FY0
+5711.T,Other Businesses,FY0
+5711.T,Eliminations and Corporate,FY0
+5711.T,Energy System,FY0
+5711.T,Processing Business,FY0
+5711.T,Metal business,FY0
+5711.T,High-performance products,FY0
+600011.SS,Other divisions,FY0
+600011.SS,Overseas Power Division,FY0
+600011.SS,China Power Division,FY0
+600025.SS,Others,FY0
+600025.SS,Electricity,FY0
+600116.SS,Electricity,FY0
+600116.SS,Eliminations,FY0
+600116.SS,Manganese Industry Sector,FY0
+600116.SS,Other plates,FY0
+600236.SS,Hydraulic power generation,FY0
+600236.SS,Other,FY0
+600236.SS,Thermal power generation,FY0
+600236.SS,Wind power generation,FY0
+600236.SS,Other division,FY0
+600236.SS,Solar Power Division,FY0
+600409.SS,Electricity & Steam,FY0
+600409.SS,Chemical Industry,FY0
+600409.SS,Intercompany Elimination,FY0
+600409.SS,Other,FY0
+600409.SS,Mining,FY0
+600459.SS,,FY0
+600674.SS,Electricity Industry,FY0
+600674.SS,Service Business,FY0
+600674.SS,Eliminations,FY0
+600674.SS,Manufacturing Business,FY0
+600674.SS,Investment Business,FY0
+600795.SS,Heat Energy Generation,FY0
+600795.SS,Others,FY0
+600795.SS,Coal Selling,FY0
+600795.SS,Hydroelectric Power Generation,FY0
+600795.SS,Intercompany Eliminations,FY0
+600795.SS,New energy power generation industry,FY0
+600886.SS,Others,FY0
+600886.SS,Thermal Power,FY0
+600886.SS,"Wind, Photovoltaic and waste to energy",FY0
+600886.SS,Hydropower,FY0
+600905.SS,Wind power business,FY0
+600905.SS,Solar power business,FY0
+600905.SS,Hydropower business and others,FY0
+600995.SS,Power Industry,FY0
+600995.SS,Eliminations,FY0
+600995.SS,Service,FY0
+601088.SS,Undistributed,FY0
+601088.SS,Harbor,FY0
+601088.SS,Railroad,FY0
+601088.SS,Shipping,FY0
+601088.SS,Coal,FY0
+601088.SS,Electric Power Generation,FY0
+601088.SS,Coal chemical,FY0
+601088.SS,Eliminations,FY0
+6013.T,Eliminations and Corporate,FY0
+6013.T,Business Environment and Energy (Domestic),FY0
+6013.T,Business Environment and Energy (Overseas),FY0
+6013.T,Thermal energy consumer business,FY0
+6013.T,Business equipment and systems,FY0
+601778.SS,EPC business of photovoltaic power station,FY0
+601778.SS,Photovoltaic power generation operation business,FY0
+601778.SS,Other Business,FY0
+601778.SS,Others,FY0
+601991.SS,Power Generation,FY0
+601991.SS,Other,FY0
+601991.SS,Coal Sales,FY0
+603212.SS,Photovoltaic power generation,FY0
+603212.SS,Photovoltaic materials,FY0
+603212.SS,others,FY0
+603212.SS,"Semiconductor, electrical, transportation and transportation materials industry",FY0
+603212.SS,Other Photovoltaic materials,FY0
+603212.SS,Communications and Consumer Electronic materials (3C),FY0
+603212.SS,Photovoltaic operation and maintenance materials,FY0
+6504.T,Other,FY0
+6504.T,Eliminations and Corporate,FY0
+6504.T,Electronic Devices Business,FY0
+6504.T,Food Circulation,FY0
+6504.T,Generation,FY0
+6504.T,Power Electronics System· Industry Solution,FY0
+6504.T,Power Electronics System· Energy Solution,FY0
+6806.TW,Other,FY0
+6806.TW,Elimination,FY0
+6806.TW,Fuwei Energy,FY0
+6806.TW,Senwei Energy,FY0
+6806.TW,Fuwei Power,FY0
+688599.SS,Smart Energy,FY0
+688599.SS,Sales of Photovoltaic Power Plants,FY0
+688599.SS,Photovoltaic Power Station Construction Management,FY0
+688599.SS,System Products,FY0
+688599.SS,Photovoltaic Products,FY0
+8031.T,Consumer Industries,FY0
+8031.T,Other,FY0
+8031.T,Metal Resources,FY0
+8031.T,Energy,FY0
+8031.T,Machinery & Infrastructure Projects,FY0
+8031.T,Chemicals,FY0
+8031.T,Steel Products Business,FY0
+8031.T,Capacity Driving of nest genetation business,FY0
+8031.T,Eliminations and Corporate Elimination,FY0
+9505.T,Eliminations and Corporate,FY0
+9505.T,Other,FY0
+9505.T,Power generation and Sales business,FY0
+9505.T,Power distribution business,FY0
+9513.T,Eliminations and Corporate,FY0
+9513.T,Other Businesses,FY0
+9513.T,Electric Power Industry,FY0
+9513.T,Power-Related Businesses Peripheral,FY0
+9513.T,Overseas Business,FY0
+9531.T,Eliminations and Corporate,FY0
+9531.T,Overseas,FY0
+9531.T,City business,FY0
+9531.T,Network,FY0
+9531.T,Energy solutions,FY0
+A2.MI,Other Services,FY0
+A2.MI,Eliminations,FY0
+A2.MI,Environment,FY0
+A2.MI,Commercial,FY0
+A2.MI,Generation and Trading,FY0
+A2.MI,Smart Infrastructures,FY0
+ACOx.TO,Corporate & Others,FY0
+ACOx.TO,Structures & Logistics,FY0
+ACOx.TO,Canadian Utilities Limited - Corporate & Other,FY0
+ACOx.TO,Canadian Utilities Limited - Energy Infrastructure,FY0
+ACOx.TO,Canadian Utilities Limited - Utilities,FY0
+ACOx.TO,Neltume Ports,FY0
+ADAI.NS,Transmission,FY0
+ADAI.NS,Trading,FY0
+ADAI.NS,Eliminations,FY0
+ADAI.NS,Mumbai GTD Business,FY0
+AEP.OQ,General and Marketing,FY0
+AEP.OQ,Corporate & Other,FY0
+AEP.OQ,Vertically integrated Utilities,FY0
+AEP.OQ,Reconciling Adjustments,FY0
+AEP.OQ,AEP Transmission Holdco,FY0
+AEP.OQ,Transmission & Distribution utilities,FY0
+AES.N,MCAC SBU,FY0
+AES.N,Corporate and Other,FY0
+AES.N,Elimination,FY0
+AES.N,Eurasia SBU,FY0
+AES.N,South America SBU,FY0
+AES.N,US and Utilities SBU,FY0
+AEV.PS,Parent Company and Others,FY0
+AEV.PS,Food Manufacturing,FY0
+AEV.PS,Financial Services,FY0
+AEV.PS,Power,FY0
+AEV.PS,Eliminations,FY0
+AEV.PS,Real Estate,FY0
+AEV.PS,Infrastracture,FY0
+ALS.TO,Project Generation,FY0
+ALS.TO,Joint Ventures,FY0
+ALS.TO,Mineral Royalties,FY0
+ALS.TO,Renewable Royalties,FY0
+AP.PS,Eliminations,FY0
+AP.PS,Power Distribution,FY0
+AP.PS,Parent Company/Others,FY0
+AP.PS,Power Generation,FY0
+ARG.CN,Sale of Cement,FY0
+ARG.CN,Financial Activity,FY0
+ARG.CN,Sale of Energy and Gas,FY0
+ARG.CN,Real Estate,FY0
+ARG.CN,Concessions,FY0
+ARG.CN,Carbon,FY0
+ARG.CN,Adjustments,FY0
+AVA.N,Intersegment Eliminations,FY0
+AVA.N,Avista Utilities,FY0
+AVA.N,Other,FY0
+AVA.N,Alaska Electric Light and Power Company,FY0
+AVNT.NS,Power,FY0
+AVNT.NS,Shrimp Processing,FY0
+AVNT.NS,Shrimp Feed,FY0
+AVNT.NS,Inter Segment revenue,FY0
+AVNT.NS,Unallocated,FY0
+AVNT.NS,Shrimp Hatchery,FY0
+AWR.N,GSCW Electric,FY0
+AWR.N,GSCW Water,FY0
+AWR.N,AWR Parent,FY0
+AWR.N,ASUS Contracts,FY0
+AY.OQ,Efficient natural gas,FY0
+AY.OQ,Renewable energy,FY0
+AY.OQ,Electric transmission lines,FY0
+AY.OQ,Water,FY0
+BEPC.N,Hydroelectric,FY0
+BEPC.N,Wind,FY0
+BEPC.N,Storage and Other,FY0
+BEPC.N,Contribution from equity-accounted investments,FY0
+BEPC.N,Attributable to non-controlling interests,FY0
+BEPC.N,Solar,FY0
+BEP_u.TO,Hydroelectric,FY0
+BEP_u.TO,Wind,FY0
+BEP_u.TO,Corporate,FY0
+BEP_u.TO,Unallocated,FY0
+BEP_u.TO,Energy Transition,FY0
+BEP_u.TO,Solar,FY0
+BKH.N,Corporate,FY0
+BKH.N,Gas Utilities,FY0
+BKH.N,Electric utilities,FY0
+BKH.N,Eliminations,FY0
+BN.N,Corporate activities,FY0
+BN.N,Renewable/Power Generating Operations,FY0
+BN.N,Real Estate,FY0
+BN.N,Private Equity & Finance,FY0
+BN.N,Asset Management,FY0
+BN.N,Infrastructure,FY0
+BP.L,Other businesses & corporate,FY0
+BP.L,Consolidated Adjustment,FY0
+BP.L,Oil production & operations,FY0
+BP.L,Gas & low carbon energy,FY0
+BP.L,Customers & products,FY0
+CBAV3.SA,Nickel,FY0
+CBAV3.SA,Aluminum,FY0
+CBAV3.SA,Eliminations,FY0
+CBAV3.SA,Energy,FY0
+CMIG4.SA,Distribution,FY0
+CMIG4.SA,Elimination,FY0
+CMIG4.SA,Generation,FY0
+CMIG4.SA,Transmission,FY0
+CMIG4.SA,Other,FY0
+CMIG4.SA,Commercialization,FY0
+CMS.N,Gas Utility,FY0
+CMS.N,Enterprises,FY0
+CMS.N,Electric Utility,FY0
+CPFE3.SA,Power Generation,FY0
+CPFE3.SA,Other,FY0
+CPFE3.SA,Energy Trading,FY0
+CPFE3.SA,Energy Distribution,FY0
+CPFE3.SA,Services,FY0
+CPFE3.SA,Energy Transmission,FY0
+CRBR.NS,Intersegment Revenue,FY0
+CRBR.NS,Power,FY0
+CRBR.NS,IT Services,FY0
+CRBR.NS,Electrominerals,FY0
+CRBR.NS,Ceramics,FY0
+CRBR.NS,Abrasives,FY0
+CRBR.NS,Other,FY0
+CSNA3.SA,Steel and New Businesses,FY0
+CSNA3.SA,Energy and Infrastructure,FY0
+CSNA3.SA,Eliminations,FY0
+CSNA3.SA,Mining,FY0
+CSNA3.SA,Railway Logistics,FY0
+CSNA3.SA,Port Logistics,FY0
+CSNA3.SA,Cement,FY0
+CU.TO,Corporate and other,FY0
+CU.TO,Energy Infrastructure,FY0
+CU.TO,Intersegment Eliminations,FY0
+CU.TO,Utilities - Electricity,FY0
+CU.TO,Utilities - Eliminations,FY0
+CU.TO,Utilities - Natural Gas,FY0
+DEHr.AT,Generation,FY0
+DEHr.AT,Mines,FY0
+DEHr.AT,Eliminations,FY0
+DEHr.AT,Supply,FY0
+DEHr.AT,Distribution Network,FY0
+DEHr.AT,HEDNO,FY0
+DEHr.AT,Other,FY0
+DEHr.AT,Natural Gas,FY0
+DEHr.AT,Groups Other companies,FY0
+DUK.N,Eliminations And Minority Interest,FY0
+DUK.N,Other,FY0
+DUK.N,Gas Utilities and Infrastructure,FY0
+DUK.N,Electric Utilities and Infrastructure,FY0
+DUK.N,Eliminations,FY0
+EDP.LS,Other,FY0
+EDP.LS,Intragroup,FY0
+EDP.LS,Adjustments,FY0
+EDP.LS,Networks,FY0
+EDP.LS,Renewables,FY0
+EDP.LS,Client Solutions & Energy Management,FY0
+ELE.MC,Spanish & Portuguese Distribution,FY0
+ELE.MC,Spanish & Portuguese Generation,FY0
+ELE.MC,Spanish & Portuguese Structure,FY0
+ELE.MC,Spanish & Portuguese Other & Eliminations,FY0
+ELET6.SA,Transmission,FY0
+ELET6.SA,Generation,FY0
+ELET6.SA,Administration,FY0
+ELET6.SA,Eliminations,FY0
+EMA.TO,Other,FY0
+EMA.TO,Inter-Segment Eliminations,FY0
+EMA.TO,Other Electric Utilities,FY0
+EMA.TO,Gas Utilities and Infrastructure,FY0
+EMA.TO,Canadian Electric Utilities,FY0
+EMA.TO,Florida Electric Utility,FY0
+ENAE.WA,Trading,FY0
+ENAE.WA,Production,FY0
+ENAE.WA,Other,FY0
+ENAE.WA,Eliminations,FY0
+ENAE.WA,Distribution,FY0
+ENAE.WA,Extraction,FY0
+ENEI.MI,Generation and Energy Management,FY0
+ENEI.MI,Adjustments/Eliminations,FY0
+ENEI.MI,"Other, Eliminations and Adjustments",FY0
+ENEI.MI,Services and Other Activities,FY0
+ENEI.MI,Service & Other Activities,FY0
+ENEI.MI,Enel X,FY0
+ENEI.MI,End user Markets,FY0
+ENEI.MI,Enel Grids,FY0
+ENEI.MI,Enel Green Power,FY0
+ENGIE.PA,Other,FY0
+ENGIE.PA,Networks,FY0
+ENGIE.PA,Supply,FY0
+ENGIE.PA,Thermal,FY0
+ENGIE.PA,Renewables,FY0
+ENGIE.PA,Nuclear,FY0
+ENGIE.PA,Client Solutions,FY0
+ENJSA.IS,Elimination,FY0
+ENJSA.IS,Undistubuted,FY0
+ENJSA.IS,Retail,FY0
+ENJSA.IS,Distribution,FY0
+ENJSA.IS,Customer Solution,FY0
+ENLT.TA,Adjustments,FY0
+ENLT.TA,Central and Eastern Europe,FY0
+ENLT.TA,Western Europe,FY0
+ENLT.TA,Israel,FY0
+ENLT.TA,Management and construction,FY0
+EONGn.DE,Customer Solutions - UK,FY0
+EONGn.DE,Consolidation,FY0
+EONGn.DE,Customer Solutions - Other,FY0
+EONGn.DE,PreussenElektra,FY0
+EONGn.DE,Corporate Functions/Other,FY0
+EONGn.DE,Energy Network Germany,FY0
+EONGn.DE,Energy Networks Sweden,FY0
+EONGn.DE,Customer Solutions - Germany,FY0
+EONGn.DE,Energy Networks CEE/Turkey,FY0
+EONGn.DE,Generation Turkey,FY0
+EONGn.DE,Customer Solutions,FY0
+ETR.N,All Other,FY0
+ETR.N,Eliminations,FY0
+ETR.N,Entergy Wholsale commodoties,FY0
+ETR.N,Utility,FY0
+EXC.OQ,BGE,FY0
+EXC.OQ,ComEd,FY0
+EXC.OQ,Corporate/Other,FY0
+EXC.OQ,PECO,FY0
+EXC.OQ,Intersegment Eliminations,FY0
+EXC.OQ,PHI,FY0
+FGEN.PS,Elimination,FY0
+FGEN.PS,FGP,FY0
+FGEN.PS,FG Hydro,FY0
+FGEN.PS,FGPC,FY0
+FGEN.PS,Others,FY0
+FGEN.PS,EDC,FY0
+FGEN.PS,Prime Meridian,FY0
+FGEN.PS,FNPC,FY0
+FORTUM.HE,Generation,FY0
+FORTUM.HE,Other Operations,FY0
+FORTUM.HE,Un-allocated,FY0
+FORTUM.HE,Consumer Solutions,FY0
+FTEK.OQ,Air Pollution Control,FY0
+FTEK.OQ,Fuel Chem,FY0
+FTS.TO,Other Electric,FY0
+FTS.TO,Corporate and other,FY0
+FTS.TO,Intersegment eliminations,FY0
+FTS.TO,Fortis Alberta,FY0
+FTS.TO,Energy infrastructure,FY0
+FTS.TO,FortisBC Energy,FY0
+FTS.TO,Fortis BC Electric,FY0
+FTS.TO,Central Hudson,FY0
+FTS.TO,UNS Energy,FY0
+FTS.TO,ITC,FY0
+GEG.HM,Power Production and Provider,FY0
+GEG.HM,Construction Activities (Hydropower and Commercial),FY0
+GEG.HM,Selling merchandise (solar battery),FY0
+GEG.HM,Services Activities (Maintain & Operate Hydropower plant),FY0
+GEG.HM,Eliminations,FY0
+GPSC.BK,Others,FY0
+GPSC.BK,Independent Power,FY0
+GPSC.BK,Small Power,FY0
+HARL.L,Commercial,FY0
+HARL.L,Renewables,FY0
+HARL.L,Cruise & Ferry,FY0
+HARL.L,Energy,FY0
+HARL.L,Defence,FY0
+HDG.HM,Eliminations,FY0
+HDG.HM,Others,FY0
+HDG.HM,Real Estate,FY0
+HDG.HM,Hydroelectric,FY0
+HE.N,Electric Utility,FY0
+HE.N,Other,FY0
+HE.N,Bank,FY0
+HEGL.NS,Power generation,FY0
+HEGL.NS,Graphite ( including other carbon products ),FY0
+HEGL.NS,Unallocable items/Others,FY0
+HOLMb.ST,FOREST,FY0
+HOLMb.ST,WOOD PRODUCTS,FY0
+HOLMb.ST,GROUP-WIDE AND OTHER,FY0
+HOLMb.ST,PAPER BOARD,FY0
+HOLMb.ST,PAPER,FY0
+HOLMb.ST,RENEWABLE ENERGY,FY0
+HOLMb.ST,Intra-group Sales,FY0
+IBE.MC,Other Business,FY0
+IBE.MC,Renewable Energy,FY0
+IBE.MC,Networks,FY0
+IBE.MC,Electricity Generation/Liberalized,FY0
+IDA.N,All Other,FY0
+IDA.N,Eliminations,FY0
+IDA.N,Utility Operations,FY0
+IDC.HN,Construction,FY0
+IDC.HN,Other Activities,FY0
+IDC.HN,Industrial zone service,FY0
+IDC.HN,Electricity,FY0
+IDC.HN,Toll Fee,FY0
+LIGT3.SA,Eliminations,FY0
+LIGT3.SA,Other,FY0
+LIGT3.SA,Distribution,FY0
+LIGT3.SA,Generation,FY0
+LIGT3.SA,Commercialization,FY0
+MGEE.OQ,Non Regulated Energy,FY0
+MGEE.OQ,Gas,FY0
+MGEE.OQ,Eliminations,FY0
+MGEE.OQ,Electric,FY0
+MPLF.PSX,Power generation,FY0
+NCLI.NS,Ready Mix Concrete Division,FY0
+NCLI.NS,Energy Division,FY0
+NCLI.NS,Cement Division,FY0
+NCLI.NS,Boards Division,FY0
+NCLI.NS,Doors,FY0
+NEOE3.SA,,FY0
+NLCI.NS,Lignite Mining,FY0
+NLCI.NS,Power Generation,FY0
+NRG.N,Corporate,FY0
+NRG.N,West/Services/Other,FY0
+NRG.N,Elimination,FY0
+NRG.N,East,FY0
+NRG.N,Texas,FY0
+NTPC.NS,Others,FY0
+NTPC.NS,Generation of energy,FY0
+NTPC.NS,Inter-Segment Eliminations,FY0
+NTPC.NS,Unallocated Corporate,FY0
+ODAS.IS,Eliminations,FY0
+ODAS.IS,Other,FY0
+ODAS.IS,Mining,FY0
+ODAS.IS,Energy Total,FY0
+ORK.OL,Financial Investments,FY0
+ORK.OL,Orkla Foods Ingredients,FY0
+ORK.OL,Orkla Confectionery & Snacks,FY0
+ORK.OL,Hydro Power,FY0
+ORK.OL,Orkla Care,FY0
+ORK.OL,Elimination,FY0
+ORK.OL,Orkla Foods,FY0
+ORK.OL,Eliminations Group,FY0
+ORK.OL,HK,FY0
+ORK.OL,Customer Investments,FY0
+ORK.OL,Orkla India,FY0
+PAFO.NS,Wind Turbine Power Generation,FY0
+PAFO.NS,Inter Segment Revenue,FY0
+PAFO.NS,Food & FMCG,FY0
+PAFO.NS,Edible Oils,FY0
+PC1.HM,Construction,FY0
+PC1.HM,Hydroelectricity,FY0
+PC1.HM,Other Activities,FY0
+PC1.HM,Manufacturing,FY0
+PC1.HM,Real Estate,FY0
+PC1.HM,Selling,FY0
+PC1.HM,Unallocated Items,FY0
+PC1.HM,Mining Operation,FY0
+PEG.N,PSE&G,FY0
+PEG.N,PSEG Power & Other,FY0
+PEG.N,Eliminations,FY0
+PGRD.NS,Consultancy Services,FY0
+PGRD.NS,Transmission Services,FY0
+PGRD.NS,Telecom Services,FY0
+PGRD.NS,Inter Segment Revenue,FY0
+PIF.TO,Geothermal Project,FY0
+PIF.TO,Others,FY0
+PIF.TO,Hydroelectric Project,FY0
+PIF.TO,Solar Project,FY0
+PTCI.NS,Unallocated,FY0
+PTCI.NS,Power Trading,FY0
+PTCI.NS,Financing business,FY0
+RATCH.BK,Domestic Electricity Generating,FY0
+RATCH.BK,Others,FY0
+RATCH.BK,Renewable Energy,FY0
+RATCH.BK,International Power Projects,FY0
+RITS.NS,Consultancy - Abroad,FY0
+RITS.NS,Consultancy - Domestic,FY0
+RITS.NS,Export Sale,FY0
+RITS.NS,Leasing -Domestic,FY0
+RITS.NS,Turnkey Construction Projects -Domestic,FY0
+RITS.NS,Power Generation,FY0
+ROH2O.BX,Electricity Supply,FY0
+ROH2O.BX,Inter Segment Eliminations,FY0
+ROH2O.BX,Electricity Generation,FY0
+RWEG.DE,Other/Consolidation,FY0
+RWEG.DE,Supply & Trading,FY0
+RWEG.DE,Intercompany Eliminations,FY0
+RWEG.DE,Coal/Nuclear,FY0
+RWEG.DE,Offshore wind,FY0
+RWEG.DE,onshore Wind/ Solar,FY0
+RWEG.DE,Hydro/Biomass/Gas,FY0
+SHEL.L,Corporate and Other,FY0
+SHEL.L,Upstream,FY0
+SHEL.L,Integrated Gas,FY0
+SHEL.L,Renewables and Energy Solutions,FY0
+SHEL.L,Chemicals and Products,FY0
+SHEL.L,Marketing,FY0
+SO.N,Reconciling Eliminations,FY0
+SO.N,All Other,FY0
+SO.N,Eliminations,FY0
+SO.N,Traditional Electric Operating Companies,FY0
+SO.N,Southern Power,FY0
+SO.N,Southern Company Gas,FY0
+SPI.OQ,Electric vehicles,FY0
+SPI.OQ,renewable energy solutions business ,FY0
+SPI.OQ,Others ,FY0
+SPI.OQ,PV stations constructions and operations,FY0
+SRG.MI,Natural gas-Tansportation,FY0
+SRG.MI,Re-Gasification (Regulated),FY0
+SRG.MI,Storage of natural gas,FY0
+SRG.MI,Unallocated,FY0
+SRG.MI,Other Segments,FY0
+SRG.MI,Energy Transition Segment,FY0
+SSE.L,Corporate unallocated,FY0
+SSE.L,Gas Storage,FY0
+SSE.L,Electricity Transmission,FY0
+SSE.L,Thermal Generation,FY0
+SSE.L,Airtricity,FY0
+SSE.L,Business Energy,FY0
+SSE.L,Electricity Distribution,FY0
+SSE.L,Renewables,FY0
+SSE.L,EPM,FY0
+SSE.L,Distributed Energy,FY0
+SVT.L,Corporate and other,FY0
+SVT.L,Business Services,FY0
+SVT.L,Regulated Water and Waste Water,FY0
+SVT.L,Unallocated,FY0
+SXC.N,Domestic Coke,FY0
+SXC.N,Logistics,FY0
+SXC.N,Brazil Coke,FY0
+SXC.N,Elimination,FY0
+SXC.N,Logistics intersegment sales,FY0
+TA.TO,Corporate/Other,FY0
+TA.TO,Hydro,FY0
+TA.TO,Gas,FY0
+TA.TO,Energy Marketing,FY0
+TA.TO,Wind and solar,FY0
+TA.TO,Equity accounted investments,FY0
+TA.TO,Energy Transition,FY0
+TCIL.NS,Frieght Division,FY0
+TCIL.NS,Energy Division,FY0
+TCIL.NS,Supply Chain Solution Division,FY0
+TCIL.NS,Seaways Division,FY0
+TCIL.NS,Unallocated income/expenditure,FY0
+TCIL.NS,Inter Company Revenue,FY0
+TTPW.NS,Others,FY0
+TTPW.NS,Inter-Segment Revenue,FY0
+TTPW.NS,Transmission and Distribution,FY0
+TTPW.NS,Renewables,FY0
+TTPW.NS,Generation,FY0
+UN01.DE,Administration/Consolidation,FY0
+UN01.DE,European Generation,FY0
+UN01.DE,Global Commodities,FY0
+UNACEMC1.LM,Adjustment,FY0
+UNACEMC1.LM,Cement,FY0
+UNACEMC1.LM,Concrete,FY0
+UNACEMC1.LM,Electric Energy,FY0
+UNACEMC1.LM,Other,FY0
+VERB.VI,Reconciliation/Consolidation,FY0
+VERB.VI,All other segments,FY0
+VERB.VI,Renewable Generation,FY0
+VERB.VI,Grid,FY0
+VERB.VI,Sales,FY0
+VERB.VI,Hydro,FY0
+XEL.OQ,Regulated Electric,FY0
+XEL.OQ,All Other,FY0
+XEL.OQ,Regulated Natural Gas,FY0

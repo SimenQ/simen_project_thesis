@@ -1,0 +1,759 @@
+{
+    "pureplay": {
+        "time_series_features": [
+            "Revenue",
+            "Depreciation And Amortization",
+            "Operating Income",
+            "Capital Expenditures - Net - Cash Flow"
+        ],
+        "meta_data_features": [],
+        "metrics_to_keep": [
+            "Revenue",
+            "Depreciation And Amortization",
+            "Operating Income",
+            "Capital Expenditures - Net - Cash Flow"
+        ],
+        "metrics_rename": {
+            "Depreciation And Amortization": "D&A",
+            "Operating Income": "EBIT",
+            "Capital Expenditures - Net - Cash Flow": "CapEx",
+            "TR.ExchangeCountry": "Country"
+        },
+        "years_to_keep": [
+            2021,
+            2022
+        ]
+    },
+    "EQNR.OL": {
+        "name": "Equinor",
+        "segments_to_keep": {
+            "Exploration and Production - International": "5010202010",
+            "Exploration and Production - Norway": "5010202010",
+            "Exploration and Production - USA": "5010202010",
+            "REN": "5020101010",
+            "Marketing, Processing and Renewable Energy": "5010203011"
+        },
+        "metrics_to_keep": [
+            "Depreciation & Amortization",
+            "External Revenue",
+            "Fixed Assets - Purchased - Cash Flow",
+            "Intersegment Revenue",
+            "Operating Income/Loss",
+            "Total Non-Current Assets"
+        ],
+        "years_to_keep": [
+            2022
+        ],
+        "segments_rename": {
+            "Exploration and Production - International": "EQNR-INT",
+            "Exploration and Production - Norway": "EQNR-NOR",
+            "Exploration and Production - USA": "EQNR-USA",
+            "REN": "EQNR-REN",
+            "Marketing, Processing and Renewable Energy": "EQNR-DOWNSTREAM"
+        },
+        "metrics_rename": {
+            "External Revenue": "External Revenue",
+            "Operating Income/Loss": "EBIT",
+            "Depreciation & Amortization": "D&A",
+            "Intersegment Revenue": "Intersegment Revenue",
+            "Total Non-Current Assets": "Total Non-Current Assets",
+            "Fixed Assets - Purchased - Cash Flow": "CapEx"
+        }
+    },
+    "EXR.AX": {
+        "name": "Elixir Energy",
+        "segments_to_keep": [
+            "Oil & Gas Exploration-Mongolia (Country)",
+            "Oil & Gas Exploration-USA",
+            "Oil & Gas Exploration-Australia",
+            "Clean Energy-Mongolia (Country)",
+            "Solar Project -Mongolia (Country)"
+        ],
+        "metrics_to_keep": [
+            "Total Liabilities including Debt - Short-Term & Long-Term",
+            "Total Assets",
+            "Net Income - including Extraordinary Items"
+        ],
+        "years_to_keep": [
+            2021,
+            2022,
+            2023
+        ],
+        "segment_rename": {
+            "Oil & Gas Exploration-Mongolia (Country)": "Upstream-Mongolia",
+            "Oil & Gas Exploration-USA": "Upstream-USA",
+            "Oil & Gas Exploration-Australia": "Upstream-Australia",
+            "Clean Energy-Mongolia (Country)": "Nat-Gas-Mongolia",
+            "Solar Project -Mongolia (Country)": "REN-Mongolia"
+        },
+        "metrics_rename": {
+            "Total Assets": "Total Assets",
+            "Total Liabilities including Debt - Short-Term & Long-Term": "Total Liabilities",
+            "Net Income - including Extraordinary Items": "Net Income"
+        }
+    },
+    "BP.L": {
+        "name": "BP",
+        "segments_to_keep": {
+            "Gas & low carbon energy": "5020101010",
+            "Oil production & operations": "5010202010",
+            "Customers & products": "5010203010"
+        },
+        "metrics_to_keep": [
+            "Depreciation & Amortization",
+            "Net Income before Tax",
+            "Earnings before Interest & Taxes (EBIT)",
+            "Fixed Assets - Purchased - Cash Flow",
+            "Consolidated Segment Revenue - External & Intersegment"
+        ],
+        "years_to_keep": [
+            2022
+        ],
+        "segments_rename": {
+            "Gas & low carbon energy": "BP-REN",
+            "Oil production & operations": "BP-Upstream",
+            "Customers & products": "BP-Downstream"
+        },
+        "metrics_rename": {
+            "Consolidated Segment Revenue - External & Intersegment": "Revenue",
+            "Depreciation & Amortization": "D&A",
+            "Fixed Assets - Purchased - Cash Flow": "CapEx",
+            "Earnings before Interest & Taxes (EBIT)": "EBIT"
+        }
+    },
+    "CLMT.OQ": {
+        "name": "Calumet Specialty Products Partners",
+        "segments_to_keep": {
+            "Montana/Renewables": "5020102015",
+            "Performance Brands": "5010203011",
+            "Speciality Products": "5010203011"
+        },
+        "metrics_to_keep": [
+            "Depreciation & Amortization",
+            "Earnings before Interest, Taxes, Depreciation & Amortization (EBITDA)",
+            "Fixed Assets - Purchased - Cash Flow",
+            "Consolidated Segment Revenue - External & Intersegment"
+        ],
+        "years_to_keep": [
+            2022
+        ],
+        "segments_rename": {
+            "Montana/Renewables": "Calumet-REN",
+            "Performance Brands": "CALUMET-Refining",
+            "Speciality Products": "Calumet-Chemicals"
+        },
+        "metrics_rename": {
+            "Consolidated Segment Revenue - External & Intersegment": "Revenue",
+            "Depreciation & Amortization": "D&A",
+            "Earnings before Interest, Taxes, Depreciation & Amortization (EBITDA)": "EBITDA",
+            "Fixed Assets - Purchased - Cash Flow": "CapEx"
+        }
+    },
+    "PMG.L": {
+        "name": "Parkmead",
+        "segments_to_keep": {
+            "Oil and Gas Exploration": "5010202010",
+            "Energy Economics": "5010302010",
+            "Renewables": "5020102010"
+        },
+        "metrics_to_keep": [
+            "Total Liabilities including Debt - Short-Term & Long-Term",
+            "Depreciation & Amortization",
+            "Operating Income/Loss",
+            "Total Assets",
+            "Fixed Assets - Purchased - Cash Flow",
+            "Consolidated Segment Revenue - External & Intersegment"
+        ],
+        "years_to_keep": [
+            2022
+        ],
+        "segments_rename": {
+            "Renewables": "PMG-REN",
+            "Oil and Gas Exploration": "PMG-Upstream",
+            "Energy Economics": "PMG-Service"
+        },
+        "metrics_rename": {
+            "Consolidated Segment Revenue - External & Intersegment": "Revenue",
+            "Total Liabilities including Debt - Short-Term & Long-Term": "Total Liabilities",
+            "Depreciation & Amortization": "D&A",
+            "Operating Income/Loss": "EBIT",
+            "Total Assets": "Total Assets",
+            "Fixed Assets - Purchased - Cash Flow": "CapEx"
+        }
+    },
+    "5021.T": {
+        "name": "Cosmo Energy",
+        "segments_to_keep": {
+            "Oil Business": "5010203010",
+            "Oil exploration": "5010202010",
+            "Petrochemistry Business": "5010203010",
+            "Renewable energy business": "5020102010"
+        },
+        "metrics_to_keep": [
+            "Depreciation & Amortization",
+            "Total Assets",
+            "Fixed Assets - Purchased - Cash Flow",
+            "Consolidated Segment Revenue - External & Intersegment"
+        ],
+        "years_to_keep": [
+            2022
+        ],
+        "segments_rename": {
+            "Oil Business": "COSMO-Refining",
+            "Oil exploration": "COSMO-Upstream",
+            "Petrochemistry Business": "COSMO-Marketing",
+            "Renewable energy business": "COSMO-REN"
+        },
+        "metrics_rename": {
+            "Consolidated Segment Revenue - External & Intersegment": "Revenue",
+            "Depreciation & Amortization": "D&A",
+            "Total Assets": "Total Assets",
+            "Fixed Assets - Purchased - Cash Flow": "CapEx"
+        }
+    },
+    "5019.T": {
+        "name": "Idemitsu Kosan",
+        "segments_to_keep": {
+            "Petroleum Products Business": "5010203010",
+            "Basic Chemicals": "5010203010",
+            "High Performance Material": "5010203011",
+            "Electricity&Renewable Energy": "5020102010",
+            "Resources": "5010202010"
+        },
+        "metrics_to_keep": [
+            "Depreciation & Amortization",
+            "Operating Income/Loss",
+            "Total Assets",
+            "Fixed Assets - Purchased - Cash Flow",
+            "Consolidated Segment Revenue - External & Intersegment"
+        ],
+        "years_to_keep": [
+            2022
+        ],
+        "segments_rename": {
+            "Petroleum Products Business": "IDEMITSU-Downstream",
+            "Basic Chemicals": "IDEMITSU-Chemicals",
+            "High Performance Material": "IDEMITSU-Refining",
+            "Electricity&Renewable Energy": "IDEMITSU-REN",
+            "Resources": "IDEMITSU-Coal"
+        },
+        "metrics_rename": {
+            "Consolidated Segment Revenue - External & Intersegment": "Revenue",
+            "Depreciation & Amortization": "D&A",
+            "Operating Income/Loss": "EBIT",
+            "Total Assets": "Total Assets",
+            "Fixed Assets - Purchased - Cash Flow": "CapEx"
+        }
+    },
+    "VLO.N": {
+        "name": "Valero Energy",
+        "segments_to_keep": {
+            "Refining": "5010203010",
+            "Renewable Diesel": "5020102010",
+            "Ethanol": "5010203013"
+        },
+        "metrics_to_keep": [
+            "Intersegment Revenue",
+            "Operating Expenses - Total",
+            "Operating Income/Loss",
+            "Total Assets",
+            "External Revenue",
+            "Fixed Assets - Purchased - Cash Flow",
+            "Cost of Revenues - Total"
+        ],
+        "years_to_keep": [
+            2022
+        ],
+        "segments_rename": {
+            "Refining": "VALERO-Downstream",
+            "Renewable Diesel": "VALERO-REN",
+            "Ethanol": "VALERO-Wholesale"
+        },
+        "metrics_rename": {
+            "Operating Expenses - Total": "OpEx",
+            "Operating Income/Loss": "EBIT",
+            "Total Assets": "Total Assets",
+            "Fixed Assets - Purchased - Cash Flow": "CapEx",
+            "Cost of Revenues - Total": "Cost of Revenue"
+        }
+    },
+    "TTEF.PA": {
+        "name": "TotalEnergies",
+        "segments_to_keep": {
+            "Refining and chemiclas": "5010203011",
+            "Marketing and Services": "5010203010",
+            "Exploration and Production": "5010202010",
+            "Gas,Renewables and Power": "5020101010 "
+        },
+        "metrics_to_keep": [
+            "Depreciation & Amortization",
+            "Operating Expenses - Total",
+            "Operating Income/Loss",
+            "Fixed Assets - Purchased - Cash Flow",
+            "Consolidated Segment Revenue - External & Intersegment"
+        ],
+        "years_to_keep": [
+            2022
+        ],
+        "segments_rename": {
+            "Refining and chemiclas": "TotalE-Refining",
+            "Marketing and Services": "TotalE-Marketing",
+            "Exploration and Production": "TotalE-Upstream",
+            "Gas,Renewables and Power": "TotalE-REN-LNG"
+        },
+        "metrics_rename": {
+            "Consolidated Segment Revenue - External & Intersegment": "Revenue",
+            "Depreciation & Amortization": "D&A",
+            "Operating Expenses - Total": "OpEx",
+            "Operating Income/Loss": "EBIT",
+            "Fixed Assets - Purchased - Cash Flow": "CapEx"
+        }
+    },
+    "SHEL.L": {
+        "name": "Shell",
+        "segments_to_keep": {
+            "Upstream": "5010202010",
+            "Integrated Gas": "5010303010",
+            "Marketing": "5010203010",
+            "Chemicals and Products": "5010203010",
+            "Renewables and Energy Solutions": "5020101010"
+        },
+        "metrics_to_keep": [
+            "External Revenue",
+            "Intersegment Revenue",
+            "Depreciation & Amortization",
+            "Fixed Assets - Purchased - Cash Flow"
+        ],
+        "years_to_keep": [
+            2022
+        ],
+        "segments_rename": {
+            "Upstream": "SHEL-Upstream",
+            "Integrated Gas": "SHEL-Midstream",
+            "Marketing": "SHEL-gas-station",
+            "Chemicals and Products": "SHEL-chemicals",
+            "Renewables and Energy Solutions": "SHEL-REN"
+        },
+        "metrics_rename": {
+            "Depreciation & Amortization": "D&A",
+            "Fixed Assets - Purchased - Cash Flow": "CapEx"
+        }
+    },
+    "AKSOA.OL": {
+        "name": "Aker Solutions",
+        "segments_to_keep": {
+            "Renewables and Field Development": "5020101010",
+            "Electrification, Maintenance and Modifications": "5010302011",
+            "Subsea": "5010302010"
+        },
+        "metrics_to_keep": [
+            "Depreciation & Amortization",
+            "Earnings before Interest, Taxes, Depreciation & Amortization (EBITDA)",
+            "Operating Income/Loss",
+            "Total Assets",
+            "Fixed Assets - Purchased - Cash Flow",
+            "Consolidated Segment Revenue - External & Intersegment"
+        ],
+        "years_to_keep": [
+            2022
+        ],
+        "segments_rename": {
+            "Renewables and Field Development": "AKS-REN",
+            "Electrification, Maintenance and Modifications": "AKS-Service",
+            "Subsea": "AKS-Subsea-Upstream"
+        },
+        "metrics_rename": {
+            "Consolidated Segment Revenue - External & Intersegment": "Revenue",
+            "Depreciation & Amortization": "D&A",
+            "Earnings before Interest, Taxes, Depreciation & Amortization (EBITDA)": "EBITDA",
+            "Operating Income/Loss": "EBIT",
+            "Total Assets": "Total Assets",
+            "Fixed Assets - Purchased - Cash Flow": "CapEx"
+        }
+    },
+    "OPAL.OQ": {
+        "name": "Opal Fuels",
+        "segments_to_keep": {
+            "RNG Fuel ": "5010202010",
+            "Fuel Station Services": "5010203012",
+            "Renewable Power ": "5020101010"
+        },
+        "metrics_to_keep": [
+            "External Revenue",
+            "Depreciation & Amortization",
+            "Total Assets",
+            "Fixed Assets - Purchased - Cash Flow"
+        ],
+        "years_to_keep": [
+            2022
+        ],
+        "segments_rename": {
+            "RNG Fuel ": "OPAL-RNG-Fuel",
+            "Fuel Station Services": "OPAL-Gas-Station",
+            "Renewable Power ": "OPAL-REN"
+        },
+        "metrics_rename": {
+            "Depreciation & Amortization": "D&A",
+            "Total Assets": "Total Assets",
+            "Fixed Assets - Purchased - Cash Flow": "CapEx"
+        }
+    },
+    "OILI.NS": {
+        "name": "Oil India",
+        "segments_to_keep": {
+            "Crude oil": "5010202010",
+            "Pipeline Transportation": "5010303010",
+            "Refinery Products": "5010203011",
+            "LPG": "5010202010",
+            "Natural Gas": "5010202010",
+            "Renewable Energy": "5020101010"
+        },
+        "metrics_to_keep": [
+            "Total Liabilities including Debt - Short-Term & Long-Term",
+            "Depreciation & Amortization",
+            "Total Assets",
+            "External Revenue",
+            "Earnings before Interest & Taxes (EBIT)",
+            "Fixed Assets - Purchased - Cash Flow"
+        ],
+        "years_to_keep": [
+            2022
+        ],
+        "segments_rename": {
+            "Crude oil": "OILI-Upstream",
+            "Pipeline Transportation": "OILI-Midstream",
+            "Refinery Products": "OILI-Downstream",
+            "LPG": "OLII-LPG",
+            "Natural Gas": "OILI-Nat-Gas",
+            "Renewable Energy": "OILI-REN"
+        },
+        "metrics_rename": {
+            "Total Liabilities including Debt - Short-Term & Long-Term": "Total Liabilities",
+            "Depreciation & Amortization": "D&A",
+            "Total Assets": "Total Assets",
+            "Earnings before Interest & Taxes (EBIT)": "EBIT",
+            "Fixed Assets - Purchased - Cash Flow": "CapEx"
+        }
+    },
+    "ENB.TO": {
+        "name": "Enbridge",
+        "segments_to_keep": {
+            "Liquids Pipelines": "5010303010",
+            "Gas Tranmission & midstream": "5010303012",
+            "Gas Distribution": "5010303012",
+            "Renewable power Generation and Transmission": "5020101010",
+            "Energy Services": "5010303010"
+        },
+        "metrics_to_keep": [
+            "External Revenue",
+            "Earnings before Interest, Taxes, Depreciation & Amortization (EBITDA)",
+            "Fixed Assets - Purchased - Cash Flow",
+            "Cost of Revenues - Total"
+        ],
+        "years_to_keep": [
+            2022
+        ],
+        "segments_rename": {
+            "Liquids Pipelines": "ENB-Pipelines",
+            "Gas Tranmission & midstream": "ENB-Gas-Trans",
+            "Gas Distribution": "ENB-Gas-Dist",
+            "Renewable power Generation and Transmission": "ENB-REN",
+            "Energy Services": "ENB-Service"
+        },
+        "metrics_rename": {
+            "Earnings before Interest, Taxes, Depreciation & Amortization (EBITDA)": "EBITDA",
+            "Fixed Assets - Purchased - Cash Flow": "CapEx",
+            "Cost of Revenues - Total": "Cost of Revenue"
+        }
+    },
+    "RUBF.PA": {
+        "name": "Rubis SCA",
+        "segments_to_keep": {
+            "Rubis Terminal": "5010201010",
+            "Rubis Energie": "5010203013",
+            "Ruby Support and services": "5010303015",
+            "Renewable Energy": "5020101010",
+            "Parent Company": "5010202010",
+            "Retail & Marketing": "5010203010"
+        },
+        "metrics_to_keep": [
+            "Earnings before Interest, Taxes, Depreciation & Amortization (EBITDA)",
+            "Operating Income/Loss",
+            "Total Assets",
+            "Earnings before Interest & Taxes (EBIT)",
+            "Fixed Assets - Purchased - Cash Flow",
+            "Consolidated Segment Revenue - External & Intersegment"
+        ],
+        "years_to_keep": [
+            2022
+        ],
+        "segments_rename": {
+            "Rubis Terminal": "RUBIS-Terminal",
+            "Rubis Energie": "RUBIS-Energy",
+            "Ruby Support and services": "RUBIS-Service",
+            "Renewable Energy": "RUBIS-REN",
+            "Parent Company": "RUBIS-Upstream",
+            "Retail & Marketing": "RUBIS-Marketing"
+        },
+        "metrics_rename": {
+            "Consolidated Segment Revenue - External & Intersegment": "Revenue",
+            "Earnings before Interest, Taxes, Depreciation & Amortization (EBITDA)": "EBITDA",
+            "Operating Income/Loss": "EBIT",
+            "Total Assets": "Total Assets",
+            "Earnings before Interest & Taxes (EBIT)": "EBIT",
+            "Fixed Assets - Purchased - Cash Flow": "CapEx"
+        }
+    },
+    "ENI.MI": {
+        "name": "Eni SpA",
+        "segments_to_keep": {
+            "Exploration and Production": "5010202010",
+            "Global Gas & LNG Portfolio": "5010303011",
+            "Refining & Marketing and Chemicals": "5010203010",
+            "EGL, Power, Renewables": "5020101010"
+        },
+        "metrics_to_keep": [
+            "Total Liabilities including Debt - Short-Term & Long-Term",
+            "Depreciation & Amortization",
+            "Operating Income/Loss",
+            "Total Assets",
+            "Fixed Assets - Purchased - Cash Flow",
+            "Consolidated Segment Revenue - External & Intersegment"
+        ],
+        "years_to_keep": [
+            2022
+        ],
+        "segments_rename": {
+            "Exploration and Production": "ENI-Upstream",
+            "Global Gas & LNG Portfolio": "ENI-Midstream",
+            "Refining & Marketing and Chemicals": "ENI-Downstream",
+            "EGL, Power, Renewables": "ENI-REN"
+        },
+        "metrics_rename": {
+            "Consolidated Segment Revenue - External & Intersegment": "Revenue",
+            "Total Liabilities including Debt - Short-Term & Long-Term": "Total Liabilities",
+            "Depreciation & Amortization": "D&A",
+            "Operating Income/Loss": "EBIT",
+            "Total Assets": "Total Assets",
+            "Fixed Assets - Purchased - Cash Flow": "CapEx"
+        }
+    },
+    "SUBC.OL": {
+        "name": "Subsea 7",
+        "segments_to_keep": {
+            "Renewables and Heavy Lifting": "5020101019",
+            "Subsea Construction, Umbilicals, Risers and Flowlines (SURF)": "5010302011",
+            "SURF and Conventional": "5010302011",
+            "Subsea and Conventional": "5010302011",
+            "Renewables": "5020101019"
+        },
+        "metrics_to_keep": [
+            "Operating Expenses - Total",
+            "Depreciation & Amortization",
+            "Operating Income/Loss",
+            "Consolidated Segment Revenue - External & Intersegment"
+        ],
+        "years_to_keep": [
+            2022
+        ],
+        "segments_rename": {
+            "Renewables and Heavy Lifting": "SUBSEA-REN-Old",
+            "Subsea Construction, Umbilicals, Risers and Flowlines (SURF)": "SUBSEA-Info-Old",
+            "SURF and Conventional": "SUBSEA-Service-Old",
+            "Subsea and Conventional": "SUBSEA-Service",
+            "Renewables": "SUBSEA-REN"
+        },
+        "metrics_rename": {
+            "Consolidated Segment Revenue - External & Intersegment": "Revenue",
+            "Operating Expenses - Total": "OpEx",
+            "Depreciation & Amortization": "D&A",
+            "Operating Income/Loss": "EBIT"
+        }
+    },
+    "DINO.N": {
+        "name": "HF Sinclair",
+        "segments_to_keep": {
+            "Lubricants and Specialty Products": "5010203012",
+            "Renewables": "5020101010",
+            "Marketing": "5010203013",
+            "Refining": "5010303013",
+            "HEP": "5010203012"
+        },
+        "metrics_to_keep": [
+            "Intersegment Revenue",
+            "Depreciation & Amortization",
+            "Operating Expenses - Total",
+            "Operating Income/Loss",
+            "External Revenue",
+            "Fixed Assets - Purchased - Cash Flow",
+            "Cost of Revenues - Total"
+        ],
+        "years_to_keep": [
+            2022
+        ],
+        "segments_rename": {
+            "Lubricants and Specialty Products": "HF-Gas-Stations1",
+            "Renewables": "HF-REN",
+            "Marketing": "HF-Wholesale",
+            "Refining": "HF-Pipeline",
+            "HEP": "HF-Gas-Stations2"
+        },
+        "metrics_rename": {
+            "Depreciation & Amortization": "D&A",
+            "Operating Expenses - Total": "OpEx",
+            "Operating Income/Loss": "EBIT",
+            "Fixed Assets - Purchased - Cash Flow": "CapEx",
+            "Cost of Revenues - Total": "Cost of Revenue"
+        }
+    },
+    "RAIZ4.SA": {
+        "name": "Raizen",
+        "segments_to_keep": {
+            "Marketing & Services Brazil": "5010203012",
+            "Marketing & Services Argentina": "5010203012",
+            "Marketing & Services Paraguai": "5010203012",
+            "Renewables": "5020102012"
+        },
+        "metrics_to_keep": [
+            "Depreciation & Amortization",
+            "Operating Income/Loss",
+            "Total Assets",
+            "Cost of Revenues - Total",
+            "Consolidated Segment Revenue - External & Intersegment"
+        ],
+        "years_to_keep": [
+            2022
+        ],
+        "segments_rename": {
+            "Marketing & Services Brazil": "RAIZEN-Gas-Station-Brazil",
+            "Marketing & Services Argentina": "RAIZEN-Gas-Station-Argentina",
+            "Marketing & Services Paraguai": "RAIZEN-Gas-Station-Paraguai",
+            "Renewables": "RAIZEN-REN"
+        },
+        "metrics_rename": {
+            "Consolidated Segment Revenue - External & Intersegment": "Revenue",
+            "Depreciation & Amortization": "D&A",
+            "Operating Income/Loss": "EBIT",
+            "Total Assets": "Total Assets",
+            "Cost of Revenues - Total": "Cost of Revenue"
+        }
+    },
+    "NESTE.HE": {
+        "name": "Neste Oyj",
+        "segments_to_keep": {
+            "Oil Products": "5010203011",
+            "Renewable Products": "5020101010",
+            "Marketing & Services": "5010203012"
+        },
+        "metrics_to_keep": [
+            "Total Liabilities including Debt - Short-Term & Long-Term",
+            "Depreciation & Amortization",
+            "Operating Income/Loss",
+            "Total Assets",
+            "Fixed Assets - Purchased - Cash Flow",
+            "Consolidated Segment Revenue - External & Intersegment"
+        ],
+        "years_to_keep": [
+            2022
+        ],
+        "segments_rename": {
+            "Oil Products": "NESTE-Refining",
+            "Renewable Products": "NESTE-REN",
+            "Marketing & Services": "NESTE-Gas-Station"
+        },
+        "metrics_rename": {
+            "Consolidated Segment Revenue - External & Intersegment": "Revenue",
+            "Total Liabilities including Debt - Short-Term & Long-Term": "Total Liabilities",
+            "Depreciation & Amortization": "D&A",
+            "Operating Income/Loss": "EBIT",
+            "Total Assets": "Total Assets",
+            "Fixed Assets - Purchased - Cash Flow": "CapEx"
+        }
+    },
+    "TRP.TO": {
+        "name": "TC Energy",
+        "segments_to_keep": {
+            "Candaian Natural gas pipelines": "5010303012",
+            "Mexico Natural Gas pipelines": "5010303012",
+            "U.S Natural gas pipelines": "5010303012",
+            "Liquid Pipelines": "5010303012",
+            "Power and Energy Solutions": "5020101010"
+        },
+        "metrics_to_keep": [
+            "Depreciation & Amortization",
+            "Total Assets",
+            "Earnings before Interest & Taxes (EBIT)",
+            "Cost of Revenues - Total",
+            "Consolidated Segment Revenue - External & Intersegment"
+        ],
+        "years_to_keep": [
+            2022
+        ],
+        "segments_rename": {
+            "Candaian Natural gas pipelines": "TC-Pipe-Canadian",
+            "Mexico Natural Gas pipelines": "TC-Pipe-Mexico",
+            "U.S Natural gas pipelines": "TC-Pipe-US",
+            "Liquid Pipelines": "TC-Liquid-pipe",
+            "Power and Energy Solutions": "TC-REN"
+        },
+        "metrics_rename": {
+            "Consolidated Segment Revenue - External & Intersegment": "Revenue",
+            "Depreciation & Amortization": "D&A",
+            "Total Assets": "Total Assets",
+            "Earnings before Interest & Taxes (EBIT)": "EBIT",
+            "Cost of Revenues - Total": "Cost of Revenue"
+        }
+    },
+    "SRS.MI": {
+        "name": "Saras SpA",
+        "segments_to_keep": {
+            "Industrial & Marketing": "5010203011",
+            "Renewables": "5020101010"
+        },
+        "metrics_to_keep": [
+            "Earnings before Interest, Taxes, Depreciation & Amortization (EBITDA)",
+            "Operating Income/Loss",
+            "Fixed Assets - Purchased - Cash Flow",
+            "Consolidated Segment Revenue - External & Intersegment"
+        ],
+        "years_to_keep": [
+            2022
+        ],
+        "segments_rename": {
+            "Industrial & Marketing": "SARAS-Oil",
+            "Renewables": "SARAS-REN"
+        },
+        "metrics_rename": {
+            "Consolidated Segment Revenue - External & Intersegment": "Revenue",
+            "Earnings before Interest, Taxes, Depreciation & Amortization (EBITDA)": "EBITDA",
+            "Fixed Assets - Purchased - Cash Flow": "CapEx",
+            "Operating Income/Loss": "EBIT"
+        }
+    },
+    "WASC.KL": {
+        "name": "Wasco",
+        "segments_to_keep": {
+            "Energy Solutions Services": "5010302010",
+            "Renewable Energy": "5020101010"
+        },
+        "metrics_to_keep": [
+            "Operating Income/Loss",
+            "Total Assets",
+            "Fixed Assets - Purchased - Cash Flow",
+            "Consolidated Segment Revenue - External & Intersegment"
+        ],
+        "years_to_keep": [
+            2022
+        ],
+        "segments_rename": {
+            "Energy Solutions Services": "WASCO-Oil",
+            "Renewable Energy": "WASCO-REN"
+        },
+        "metrics_rename": {
+            "Consolidated Segment Revenue - External & Intersegment": "Revenue",
+            "Operating Income/Loss": "EBIT",
+            "Total Assets": "Total Assets",
+            "Fixed Assets - Purchased - Cash Flow": "CapEx"
+        }
+    }
+}
