@@ -1,624 +1,621 @@
-Instrument,Segment Name,year
-000537.SZ,New energy power,FY2
-000539.SZ,Electricity and Related Produtcs,FY2
-000629.SZ,Vanadium products,FY2
-000629.SZ,Titanium products,FY2
-000629.SZ,Other Products,FY2
-000629.SZ,Electricity,FY2
-000629.SZ,Other business,FY2
-000883.SZ,Hydroelectric Power,FY2
-000883.SZ,Other,FY2
-000883.SZ,Thermal Power,FY2
-000883.SZ,Coal,FY2
-000883.SZ,New energy,FY2
-000883.SZ,Eliminations,FY2
-002060.SZ,Other,FY2
-002060.SZ,Engineering Construction,FY2
-002060.SZ,Exploration design,FY2
-002060.SZ,Power,FY2
-002060.SZ,Product sales,FY2
-002545.SZ,Other,FY2
-002545.SZ,Construction/Installation,FY2
-002545.SZ,Tower Manufacturing,FY2
-002545.SZ,Potash Fertilizer,FY2
-002545.SZ,Photovoltaic Power Generation,FY2
-071320.KS,Cold Water,FY2
-071320.KS,Heat Segement,FY2
-071320.KS,Electricity Segment,FY2
-1811.HK,Management companies,FY2
-1811.HK,Power Plants in the Korea,FY2
-1811.HK,Power Plants in the Peoples Republic China,FY2
-2083.SE,Corporate,FY2
-2083.SE,Tawreed,FY2
-2083.SE,JWAP,FY2
-2083.SE,Gas,FY2
-2083.SE,Eliminations,FY2
-2083.SE,Power,FY2
-2083.SE,Water,FY2
-2380.HK,Hydropower Electricity,FY2
-2380.HK,Coal Fired Electricity,FY2
-2380.HK,Photovoltaic power electricity,FY2
-2380.HK,Wind Power Electricity,FY2
-2380.HK,Energy Storage,FY2
-300569.SZ,Elimination,FY2
-300569.SZ,Tower Manufacturing,FY2
-300569.SZ,New energy,FY2
-300772.SZ,Wind Industry,FY2
-300772.SZ,Eliminations,FY2
-300772.SZ,Wind power equipment and smart services,FY2
-300772.SZ,New energy EPC general contracting business,FY2
-3038.T,Super Business ,FY2
-3038.T,Eliminations and Corporate,FY2
-3038.T,Eco renewable energy,FY2
-3038.T,Other,FY2
-3038.T,Restaurant/takeout business,FY2
-5110.SE,Elimination Intercompany transactions,FY2
-5110.SE,Other subsidiares,FY2
-5110.SE,National Grid Company,FY2
-5110.SE,Saudi Electricity Company,FY2
-5711.T,Other Businesses,FY2
-5711.T,Eliminations and Corporate,FY2
-5711.T,Energy System,FY2
-5711.T,Processing Business,FY2
-5711.T,Metal business,FY2
-5711.T,High-performance products,FY2
-600011.SS,Other divisions,FY2
-600011.SS,Overseas Power Division,FY2
-600011.SS,China Power Division,FY2
-600025.SS,Others,FY2
-600025.SS,Electricity,FY2
-600116.SS,Electricity,FY2
-600116.SS,Eliminations,FY2
-600116.SS,Manganese Industry Sector,FY2
-600116.SS,Other plates,FY2
-600236.SS,Hydraulic power generation,FY2
-600236.SS,Other,FY2
-600236.SS,Thermal power generation,FY2
-600236.SS,Wind power generation,FY2
-600236.SS,Other division,FY2
-600236.SS,Solar Power Division,FY2
-600409.SS,Electricity & Steam,FY2
-600409.SS,Chemical Industry,FY2
-600409.SS,Intercompany Elimination,FY2
-600409.SS,Other,FY2
-600409.SS,Mining,FY2
-600459.SS,,FY2
-600674.SS,Electricity Industry,FY2
-600674.SS,Service Business,FY2
-600674.SS,Eliminations,FY2
-600674.SS,Manufacturing Business,FY2
-600674.SS,Investment Business,FY2
-600795.SS,Heat Energy Generation,FY2
-600795.SS,Others,FY2
-600795.SS,Coal Selling,FY2
-600795.SS,Hydroelectric Power Generation,FY2
-600795.SS,Intercompany Eliminations,FY2
-600795.SS,New energy power generation industry,FY2
-600886.SS,Others,FY2
-600886.SS,Thermal Power,FY2
-600886.SS,"Wind, Photovoltaic and waste to energy",FY2
-600886.SS,Hydropower,FY2
-600905.SS,Wind power business,FY2
-600905.SS,Solar power business,FY2
-600905.SS,Hydropower business and others,FY2
-600995.SS,Power Industry,FY2
-600995.SS,Eliminations,FY2
-600995.SS,Service,FY2
-601088.SS,Undistributed,FY2
-601088.SS,Harbor,FY2
-601088.SS,Railroad,FY2
-601088.SS,Shipping,FY2
-601088.SS,Coal,FY2
-601088.SS,Electric Power Generation,FY2
-601088.SS,Coal chemical,FY2
-601088.SS,Eliminations,FY2
-6013.T,Eliminations and Corporate,FY2
-6013.T,Business Environment and Energy (Domestic),FY2
-6013.T,Business Environment and Energy (Overseas),FY2
-6013.T,Thermal energy consumer business,FY2
-6013.T,Business equipment and systems,FY2
-601778.SS,EPC business of photovoltaic power station,FY2
-601778.SS,Photovoltaic power generation operation business,FY2
-601778.SS,Other Business,FY2
-601778.SS,Others,FY2
-601991.SS,Power Generation,FY2
-601991.SS,Other,FY2
-601991.SS,Coal Sales,FY2
-603212.SS,Photovoltaic power generation,FY2
-603212.SS,Photovoltaic materials,FY2
-603212.SS,others,FY2
-603212.SS,"Semiconductor, electrical, transportation and transportation materials industry",FY2
-603212.SS,Other Photovoltaic materials,FY2
-603212.SS,Communications and Consumer Electronic materials (3C),FY2
-603212.SS,Photovoltaic operation and maintenance materials,FY2
-6504.T,Other,FY2
-6504.T,Eliminations and Corporate,FY2
-6504.T,Electronic Devices Business,FY2
-6504.T,Food Circulation,FY2
-6504.T,Generation,FY2
-6504.T,Power Electronics System· Industry Solution,FY2
-6504.T,Power Electronics System· Energy Solution,FY2
-6806.TW,Other,FY2
-6806.TW,Elimination,FY2
-6806.TW,Fuwei Energy,FY2
-6806.TW,Senwei Energy,FY2
-6806.TW,Fuwei Power,FY2
-688599.SS,Smart Energy,FY2
-688599.SS,Sales of Photovoltaic Power Plants,FY2
-688599.SS,Photovoltaic Power Station Construction Management,FY2
-688599.SS,System Products,FY2
-688599.SS,Photovoltaic Products,FY2
-8031.T,Consumer Industries,FY2
-8031.T,Other,FY2
-8031.T,Metal Resources,FY2
-8031.T,Energy,FY2
-8031.T,Machinery & Infrastructure Projects,FY2
-8031.T,Chemicals,FY2
-8031.T,Steel Products Business,FY2
-8031.T,Capacity Driving of nest genetation business,FY2
-8031.T,Eliminations and Corporate Elimination,FY2
-9505.T,Eliminations and Corporate,FY2
-9505.T,Other,FY2
-9505.T,Power generation and Sales business,FY2
-9505.T,Power distribution business,FY2
-9513.T,Eliminations and Corporate,FY2
-9513.T,Other Businesses,FY2
-9513.T,Electric Power Industry,FY2
-9513.T,Power-Related Businesses Peripheral,FY2
-9513.T,Overseas Business,FY2
-9531.T,Eliminations and Corporate,FY2
-9531.T,Overseas,FY2
-9531.T,City business,FY2
-9531.T,Network,FY2
-9531.T,Energy solutions,FY2
-A2.MI,Other Services,FY2
-A2.MI,Eliminations,FY2
-A2.MI,Environment,FY2
-A2.MI,Commercial,FY2
-A2.MI,Generation and Trading,FY2
-A2.MI,Smart Infrastructures,FY2
-ACOx.TO,Corporate & Others,FY2
-ACOx.TO,Structures & Logistics,FY2
-ACOx.TO,Canadian Utilities Limited - Corporate & Other,FY2
-ACOx.TO,Canadian Utilities Limited - Energy Infrastructure,FY2
-ACOx.TO,Canadian Utilities Limited - Utilities,FY2
-ACOx.TO,Neltume Ports,FY2
-ADAI.NS,Transmission,FY2
-ADAI.NS,Trading,FY2
-ADAI.NS,Eliminations,FY2
-ADAI.NS,Mumbai GTD Business,FY2
-AEP.OQ,General and Marketing,FY2
-AEP.OQ,Corporate & Other,FY2
-AEP.OQ,Vertically integrated Utilities,FY2
-AEP.OQ,Reconciling Adjustments,FY2
-AEP.OQ,AEP Transmission Holdco,FY2
-AEP.OQ,Transmission & Distribution utilities,FY2
-AES.N,MCAC SBU,FY2
-AES.N,Corporate and Other,FY2
-AES.N,Elimination,FY2
-AES.N,Eurasia SBU,FY2
-AES.N,South America SBU,FY2
-AES.N,US and Utilities SBU,FY2
-AEV.PS,Parent Company and Others,FY2
-AEV.PS,Food Manufacturing,FY2
-AEV.PS,Financial Services,FY2
-AEV.PS,Power,FY2
-AEV.PS,Eliminations,FY2
-AEV.PS,Real Estate,FY2
-AEV.PS,Infrastracture,FY2
-ALS.TO,Project Generation,FY2
-ALS.TO,Joint Ventures,FY2
-ALS.TO,Mineral Royalties,FY2
-ALS.TO,Renewable Royalties,FY2
-AP.PS,Eliminations,FY2
-AP.PS,Power Distribution,FY2
-AP.PS,Parent Company/Others,FY2
-AP.PS,Power Generation,FY2
-ARG.CN,Sale of Cement,FY2
-ARG.CN,Financial Activity,FY2
-ARG.CN,Sale of Energy and Gas,FY2
-ARG.CN,Real Estate,FY2
-ARG.CN,Concessions,FY2
-ARG.CN,Carbon,FY2
-ARG.CN,Adjustments,FY2
-AVA.N,Intersegment Eliminations,FY2
-AVA.N,Avista Utilities,FY2
-AVA.N,Other,FY2
-AVA.N,Alaska Electric Light and Power Company,FY2
-AVNT.NS,Power,FY2
-AVNT.NS,Shrimp Processing,FY2
-AVNT.NS,Shrimp Feed,FY2
-AVNT.NS,Inter Segment revenue,FY2
-AVNT.NS,Unallocated,FY2
-AVNT.NS,Shrimp Hatchery,FY2
-AWR.N,GSCW Electric,FY2
-AWR.N,GSCW Water,FY2
-AWR.N,AWR Parent,FY2
-AWR.N,ASUS Contracts,FY2
-AY.OQ,Efficient natural gas,FY2
-AY.OQ,Renewable energy,FY2
-AY.OQ,Electric transmission lines,FY2
-AY.OQ,Water,FY2
-BEPC.N,Hydroelectric,FY2
-BEPC.N,Wind,FY2
-BEPC.N,Storage and Other,FY2
-BEPC.N,Contribution from equity-accounted investments,FY2
-BEPC.N,Attributable to non-controlling interests,FY2
-BEPC.N,Solar,FY2
-BEP_u.TO,Hydroelectric,FY2
-BEP_u.TO,Wind,FY2
-BEP_u.TO,Corporate,FY2
-BEP_u.TO,Unallocated,FY2
-BEP_u.TO,Energy Transition,FY2
-BEP_u.TO,Solar,FY2
-BKH.N,Corporate,FY2
-BKH.N,Gas Utilities,FY2
-BKH.N,Electric utilities,FY2
-BKH.N,Eliminations,FY2
-BN.N,Corporate activities,FY2
-BN.N,Renewable/Power Generating Operations,FY2
-BN.N,Real Estate,FY2
-BN.N,Private Equity & Finance,FY2
-BN.N,Asset Management,FY2
-BN.N,Infrastructure,FY2
-BP.L,Other businesses & corporate,FY2
-BP.L,Consolidated Adjustment,FY2
-BP.L,Oil production & operations,FY2
-BP.L,Gas & low carbon energy,FY2
-BP.L,Customers & products,FY2
-CBAV3.SA,Nickel,FY2
-CBAV3.SA,Aluminum,FY2
-CBAV3.SA,Eliminations,FY2
-CBAV3.SA,Energy,FY2
-CMIG4.SA,Distribution,FY2
-CMIG4.SA,Elimination,FY2
-CMIG4.SA,Generation,FY2
-CMIG4.SA,Transmission,FY2
-CMIG4.SA,Other,FY2
-CMIG4.SA,Commercialization,FY2
-CMS.N,Gas Utility,FY2
-CMS.N,Enterprises,FY2
-CMS.N,Electric Utility,FY2
-CPFE3.SA,Power Generation,FY2
-CPFE3.SA,Other,FY2
-CPFE3.SA,Energy Trading,FY2
-CPFE3.SA,Energy Distribution,FY2
-CPFE3.SA,Services,FY2
-CPFE3.SA,Energy Transmission,FY2
-CRBR.NS,Intersegment Revenue,FY2
-CRBR.NS,Power,FY2
-CRBR.NS,IT Services,FY2
-CRBR.NS,Electrominerals,FY2
-CRBR.NS,Ceramics,FY2
-CRBR.NS,Abrasives,FY2
-CRBR.NS,Other,FY2
-CSNA3.SA,Steel and New Businesses,FY2
-CSNA3.SA,Energy and Infrastructure,FY2
-CSNA3.SA,Eliminations,FY2
-CSNA3.SA,Mining,FY2
-CSNA3.SA,Railway Logistics,FY2
-CSNA3.SA,Port Logistics,FY2
-CSNA3.SA,Cement,FY2
-CU.TO,Corporate and other,FY2
-CU.TO,Energy Infrastructure,FY2
-CU.TO,Intersegment Eliminations,FY2
-CU.TO,Utilities - Electricity,FY2
-CU.TO,Utilities - Eliminations,FY2
-CU.TO,Utilities - Natural Gas,FY2
-DEHr.AT,Generation,FY2
-DEHr.AT,Mines,FY2
-DEHr.AT,Eliminations,FY2
-DEHr.AT,Supply,FY2
-DEHr.AT,Distribution Network,FY2
-DEHr.AT,HEDNO,FY2
-DEHr.AT,Other,FY2
-DEHr.AT,Natural Gas,FY2
-DEHr.AT,Groups Other companies,FY2
-DUK.N,Eliminations And Minority Interest,FY2
-DUK.N,Other,FY2
-DUK.N,Gas Utilities and Infrastructure,FY2
-DUK.N,Electric Utilities and Infrastructure,FY2
-DUK.N,Eliminations,FY2
-EDP.LS,Other,FY2
-EDP.LS,Intragroup,FY2
-EDP.LS,Adjustments,FY2
-EDP.LS,Networks,FY2
-EDP.LS,Renewables,FY2
-EDP.LS,Client Solutions & Energy Management,FY2
-ELE.MC,Spanish & Portuguese Distribution,FY2
-ELE.MC,Spanish & Portuguese Generation,FY2
-ELE.MC,Spanish & Portuguese Structure,FY2
-ELE.MC,Spanish & Portuguese Other & Eliminations,FY2
-ELET6.SA,Transmission,FY2
-ELET6.SA,Generation,FY2
-ELET6.SA,Administration,FY2
-ELET6.SA,Eliminations,FY2
-EMA.TO,Other,FY2
-EMA.TO,Inter-Segment Eliminations,FY2
-EMA.TO,Other Electric Utilities,FY2
-EMA.TO,Gas Utilities and Infrastructure,FY2
-EMA.TO,Canadian Electric Utilities,FY2
-EMA.TO,Florida Electric Utility,FY2
-ENAE.WA,Trading,FY2
-ENAE.WA,Production,FY2
-ENAE.WA,Other,FY2
-ENAE.WA,Eliminations,FY2
-ENAE.WA,Distribution,FY2
-ENAE.WA,Extraction,FY2
-ENEI.MI,Generation and Energy Management,FY2
-ENEI.MI,Adjustments/Eliminations,FY2
-ENEI.MI,"Other, Eliminations and Adjustments",FY2
-ENEI.MI,Services and Other Activities,FY2
-ENEI.MI,Service & Other Activities,FY2
-ENEI.MI,Enel X,FY2
-ENEI.MI,End user Markets,FY2
-ENEI.MI,Enel Grids,FY2
-ENEI.MI,Enel Green Power,FY2
-ENGIE.PA,Other,FY2
-ENGIE.PA,Networks,FY2
-ENGIE.PA,Supply,FY2
-ENGIE.PA,Thermal,FY2
-ENGIE.PA,Renewables,FY2
-ENGIE.PA,Nuclear,FY2
-ENGIE.PA,Client Solutions,FY2
-ENJSA.IS,Elimination,FY2
-ENJSA.IS,Undistubuted,FY2
-ENJSA.IS,Retail,FY2
-ENJSA.IS,Distribution,FY2
-ENJSA.IS,Customer Solution,FY2
-ENLT.TA,Adjustments,FY2
-ENLT.TA,Central and Eastern Europe,FY2
-ENLT.TA,Western Europe,FY2
-ENLT.TA,Israel,FY2
-ENLT.TA,Management and construction,FY2
-EONGn.DE,Customer Solutions - UK,FY2
-EONGn.DE,Consolidation,FY2
-EONGn.DE,Customer Solutions - Other,FY2
-EONGn.DE,PreussenElektra,FY2
-EONGn.DE,Corporate Functions/Other,FY2
-EONGn.DE,Energy Network Germany,FY2
-EONGn.DE,Energy Networks Sweden,FY2
-EONGn.DE,Customer Solutions - Germany,FY2
-EONGn.DE,Energy Networks CEE/Turkey,FY2
-EONGn.DE,Generation Turkey,FY2
-EONGn.DE,Customer Solutions,FY2
-ETR.N,All Other,FY2
-ETR.N,Eliminations,FY2
-ETR.N,Entergy Wholsale commodoties,FY2
-ETR.N,Utility,FY2
-EXC.OQ,BGE,FY2
-EXC.OQ,ComEd,FY2
-EXC.OQ,Corporate/Other,FY2
-EXC.OQ,PECO,FY2
-EXC.OQ,Intersegment Eliminations,FY2
-EXC.OQ,PHI,FY2
-FGEN.PS,Elimination,FY2
-FGEN.PS,FGP,FY2
-FGEN.PS,FG Hydro,FY2
-FGEN.PS,FGPC,FY2
-FGEN.PS,Others,FY2
-FGEN.PS,EDC,FY2
-FGEN.PS,Prime Meridian,FY2
-FGEN.PS,FNPC,FY2
-FORTUM.HE,Generation,FY2
-FORTUM.HE,Other Operations,FY2
-FORTUM.HE,Un-allocated,FY2
-FORTUM.HE,Consumer Solutions,FY2
-FTEK.OQ,Air Pollution Control,FY2
-FTEK.OQ,Fuel Chem,FY2
-FTS.TO,Other Electric,FY2
-FTS.TO,Corporate and other,FY2
-FTS.TO,Intersegment eliminations,FY2
-FTS.TO,Fortis Alberta,FY2
-FTS.TO,Energy infrastructure,FY2
-FTS.TO,FortisBC Energy,FY2
-FTS.TO,Fortis BC Electric,FY2
-FTS.TO,Central Hudson,FY2
-FTS.TO,UNS Energy,FY2
-FTS.TO,ITC,FY2
-GEG.HM,Power Production and Provider,FY2
-GEG.HM,Construction Activities (Hydropower and Commercial),FY2
-GEG.HM,Selling merchandise (solar battery),FY2
-GEG.HM,Services Activities (Maintain & Operate Hydropower plant),FY2
-GEG.HM,Eliminations,FY2
-GPSC.BK,Others,FY2
-GPSC.BK,Independent Power,FY2
-GPSC.BK,Small Power,FY2
-HARL.L,Commercial,FY2
-HARL.L,Renewables,FY2
-HARL.L,Cruise & Ferry,FY2
-HARL.L,Energy,FY2
-HARL.L,Defence,FY2
-HDG.HM,Eliminations,FY2
-HDG.HM,Others,FY2
-HDG.HM,Real Estate,FY2
-HDG.HM,Hydroelectric,FY2
-HE.N,Electric Utility,FY2
-HE.N,Other,FY2
-HE.N,Bank,FY2
-HEGL.NS,Power generation,FY2
-HEGL.NS,Graphite ( including other carbon products ),FY2
-HEGL.NS,Unallocable items/Others,FY2
-HOLMb.ST,FOREST,FY2
-HOLMb.ST,WOOD PRODUCTS,FY2
-HOLMb.ST,GROUP-WIDE AND OTHER,FY2
-HOLMb.ST,PAPER BOARD,FY2
-HOLMb.ST,PAPER,FY2
-HOLMb.ST,RENEWABLE ENERGY,FY2
-HOLMb.ST,Intra-group Sales,FY2
-IBE.MC,Other Business,FY2
-IBE.MC,Renewable Energy,FY2
-IBE.MC,Networks,FY2
-IBE.MC,Electricity Generation/Liberalized,FY2
-IDA.N,All Other,FY2
-IDA.N,Eliminations,FY2
-IDA.N,Utility Operations,FY2
-IDC.HN,Construction,FY2
-IDC.HN,Other Activities,FY2
-IDC.HN,Industrial zone service,FY2
-IDC.HN,Electricity,FY2
-IDC.HN,Toll Fee,FY2
-LIGT3.SA,Eliminations,FY2
-LIGT3.SA,Other,FY2
-LIGT3.SA,Distribution,FY2
-LIGT3.SA,Generation,FY2
-LIGT3.SA,Commercialization,FY2
-MGEE.OQ,Non Regulated Energy,FY2
-MGEE.OQ,Gas,FY2
-MGEE.OQ,Eliminations,FY2
-MGEE.OQ,Electric,FY2
-MPLF.PSX,Power generation,FY2
-NCLI.NS,Ready Mix Concrete Division,FY2
-NCLI.NS,Energy Division,FY2
-NCLI.NS,Cement Division,FY2
-NCLI.NS,Boards Division,FY2
-NCLI.NS,Doors,FY2
-NEOE3.SA,,FY2
-NLCI.NS,Lignite Mining,FY2
-NLCI.NS,Power Generation,FY2
-NRG.N,Corporate,FY2
-NRG.N,West/Services/Other,FY2
-NRG.N,Elimination,FY2
-NRG.N,East,FY2
-NRG.N,Texas,FY2
-NTPC.NS,Others,FY2
-NTPC.NS,Generation of energy,FY2
-NTPC.NS,Inter-Segment Eliminations,FY2
-NTPC.NS,Unallocated Corporate,FY2
-ODAS.IS,Eliminations,FY2
-ODAS.IS,Other,FY2
-ODAS.IS,Mining,FY2
-ODAS.IS,Energy Total,FY2
-ORK.OL,Financial Investments,FY2
-ORK.OL,Orkla Foods Ingredients,FY2
-ORK.OL,Orkla Confectionery & Snacks,FY2
-ORK.OL,Hydro Power,FY2
-ORK.OL,Orkla Care,FY2
-ORK.OL,Elimination,FY2
-ORK.OL,Orkla Foods,FY2
-ORK.OL,Eliminations Group,FY2
-ORK.OL,HK,FY2
-ORK.OL,Customer Investments,FY2
-ORK.OL,Orkla India,FY2
-PAFO.NS,Wind Turbine Power Generation,FY2
-PAFO.NS,Inter Segment Revenue,FY2
-PAFO.NS,Food & FMCG,FY2
-PAFO.NS,Edible Oils,FY2
-PC1.HM,Construction,FY2
-PC1.HM,Hydroelectricity,FY2
-PC1.HM,Other Activities,FY2
-PC1.HM,Manufacturing,FY2
-PC1.HM,Real Estate,FY2
-PC1.HM,Selling,FY2
-PC1.HM,Unallocated Items,FY2
-PC1.HM,Mining Operation,FY2
-PEG.N,PSE&G,FY2
-PEG.N,PSEG Power & Other,FY2
-PEG.N,Eliminations,FY2
-PGRD.NS,Consultancy Services,FY2
-PGRD.NS,Transmission Services,FY2
-PGRD.NS,Telecom Services,FY2
-PGRD.NS,Inter Segment Revenue,FY2
-PIF.TO,Geothermal Project,FY2
-PIF.TO,Others,FY2
-PIF.TO,Hydroelectric Project,FY2
-PIF.TO,Solar Project,FY2
-PTCI.NS,Unallocated,FY2
-PTCI.NS,Power Trading,FY2
-PTCI.NS,Financing business,FY2
-RATCH.BK,Domestic Electricity Generating,FY2
-RATCH.BK,Others,FY2
-RATCH.BK,Renewable Energy,FY2
-RATCH.BK,International Power Projects,FY2
-RITS.NS,Consultancy - Abroad,FY2
-RITS.NS,Consultancy - Domestic,FY2
-RITS.NS,Export Sale,FY2
-RITS.NS,Leasing -Domestic,FY2
-RITS.NS,Turnkey Construction Projects -Domestic,FY2
-RITS.NS,Power Generation,FY2
-ROH2O.BX,Electricity Supply,FY2
-ROH2O.BX,Inter Segment Eliminations,FY2
-ROH2O.BX,Electricity Generation,FY2
-RWEG.DE,Other/Consolidation,FY2
-RWEG.DE,Supply & Trading,FY2
-RWEG.DE,Intercompany Eliminations,FY2
-RWEG.DE,Coal/Nuclear,FY2
-RWEG.DE,Offshore wind,FY2
-RWEG.DE,onshore Wind/ Solar,FY2
-RWEG.DE,Hydro/Biomass/Gas,FY2
-SHEL.L,Corporate and Other,FY2
-SHEL.L,Upstream,FY2
-SHEL.L,Integrated Gas,FY2
-SHEL.L,Renewables and Energy Solutions,FY2
-SHEL.L,Chemicals and Products,FY2
-SHEL.L,Marketing,FY2
-SO.N,Reconciling Eliminations,FY2
-SO.N,All Other,FY2
-SO.N,Eliminations,FY2
-SO.N,Traditional Electric Operating Companies,FY2
-SO.N,Southern Power,FY2
-SO.N,Southern Company Gas,FY2
-SPI.OQ,Electric vehicles,FY2
-SPI.OQ,renewable energy solutions business ,FY2
-SPI.OQ,Others ,FY2
-SPI.OQ,PV stations constructions and operations,FY2
-SRG.MI,Natural gas-Tansportation,FY2
-SRG.MI,Re-Gasification (Regulated),FY2
-SRG.MI,Storage of natural gas,FY2
-SRG.MI,Unallocated,FY2
-SRG.MI,Other Segments,FY2
-SRG.MI,Energy Transition Segment,FY2
-SSE.L,Corporate unallocated,FY2
-SSE.L,Gas Storage,FY2
-SSE.L,Electricity Transmission,FY2
-SSE.L,Thermal Generation,FY2
-SSE.L,Airtricity,FY2
-SSE.L,Business Energy,FY2
-SSE.L,Electricity Distribution,FY2
-SSE.L,Renewables,FY2
-SSE.L,EPM,FY2
-SSE.L,Distributed Energy,FY2
-SVT.L,Corporate and other,FY2
-SVT.L,Business Services,FY2
-SVT.L,Regulated Water and Waste Water,FY2
-SVT.L,Unallocated,FY2
-SXC.N,Domestic Coke,FY2
-SXC.N,Logistics,FY2
-SXC.N,Brazil Coke,FY2
-SXC.N,Elimination,FY2
-SXC.N,Logistics intersegment sales,FY2
-TA.TO,Corporate/Other,FY2
-TA.TO,Hydro,FY2
-TA.TO,Gas,FY2
-TA.TO,Energy Marketing,FY2
-TA.TO,Wind and solar,FY2
-TA.TO,Equity accounted investments,FY2
-TA.TO,Energy Transition,FY2
-TCIL.NS,Frieght Division,FY2
-TCIL.NS,Energy Division,FY2
-TCIL.NS,Supply Chain Solution Division,FY2
-TCIL.NS,Seaways Division,FY2
-TCIL.NS,Unallocated income/expenditure,FY2
-TCIL.NS,Inter Company Revenue,FY2
-TTPW.NS,Others,FY2
-TTPW.NS,Inter-Segment Revenue,FY2
-TTPW.NS,Transmission and Distribution,FY2
-TTPW.NS,Renewables,FY2
-TTPW.NS,Generation,FY2
-UN01.DE,Administration/Consolidation,FY2
-UN01.DE,European Generation,FY2
-UN01.DE,Global Commodities,FY2
-UNACEMC1.LM,Adjustment,FY2
-UNACEMC1.LM,Cement,FY2
-UNACEMC1.LM,Concrete,FY2
-UNACEMC1.LM,Electric Energy,FY2
-UNACEMC1.LM,Other,FY2
-VERB.VI,Reconciliation/Consolidation,FY2
-VERB.VI,All other segments,FY2
-VERB.VI,Renewable Generation,FY2
-VERB.VI,Grid,FY2
-VERB.VI,Sales,FY2
-VERB.VI,Hydro,FY2
-XEL.OQ,Regulated Electric,FY2
-XEL.OQ,All Other,FY2
-XEL.OQ,Regulated Natural Gas,FY2
+Instrument,year,has ren segment,number of segments
+000537.SZ,-2,False,5
+000537.SZ,-2,False,5
+000537.SZ,-2,False,5
+000537.SZ,-2,False,5
+000537.SZ,-2,False,5
+000539.SZ,-2,False,1
+000629.SZ,-2,False,5
+000629.SZ,-2,False,5
+000629.SZ,-2,False,5
+000629.SZ,-2,True,5
+000629.SZ,-2,False,5
+000883.SZ,-2,True,6
+000883.SZ,-2,False,6
+000883.SZ,-2,False,6
+000883.SZ,-2,False,6
+000883.SZ,-2,True,6
+000883.SZ,-2,False,6
+002060.SZ,-2,False,5
+002060.SZ,-2,False,5
+002060.SZ,-2,False,5
+002060.SZ,-2,False,5
+002060.SZ,-2,False,5
+002545.SZ,-2,False,5
+002545.SZ,-2,False,5
+002545.SZ,-2,False,5
+002545.SZ,-2,False,5
+002545.SZ,-2,False,5
+071320.KS,-2,True,3
+071320.KS,-2,False,3
+071320.KS,-2,False,3
+1811.HK,-2,True,3
+1811.HK,-2,False,3
+1811.HK,-2,False,3
+2083.SE,-2,False,7
+2083.SE,-2,False,7
+2083.SE,-2,False,7
+2083.SE,-2,False,7
+2083.SE,-2,False,7
+2083.SE,-2,False,7
+2083.SE,-2,False,7
+2380.HK,-2,True,4
+2380.HK,-2,False,4
+2380.HK,-2,False,4
+2380.HK,-2,True,4
+300569.SZ,-2,False,3
+300569.SZ,-2,False,3
+300569.SZ,-2,False,3
+300772.SZ,-2,True,3
+300772.SZ,-2,False,3
+300772.SZ,-2,False,3
+3038.T,-2,False,6
+3038.T,-2,False,6
+3038.T,-2,False,6
+3038.T,-2,True,6
+3038.T,-2,False,6
+3038.T,-2,False,6
+5110.SE,-2,False,6
+5110.SE,-2,False,6
+5110.SE,-2,False,6
+5110.SE,-2,True,6
+5110.SE,-2,False,6
+5110.SE,-2,False,6
+5711.T,-2,False,7
+5711.T,-2,False,7
+5711.T,-2,False,7
+5711.T,-2,False,7
+5711.T,-2,False,7
+5711.T,-2,False,7
+5711.T,-2,False,7
+600011.SS,-2,False,3
+600011.SS,-2,False,3
+600011.SS,-2,False,3
+600025.SS,-2,False,2
+600025.SS,-2,False,2
+600116.SS,-2,False,5
+600116.SS,-2,False,5
+600116.SS,-2,False,5
+600116.SS,-2,False,5
+600116.SS,-2,False,5
+600236.SS,-2,True,5
+600236.SS,-2,False,5
+600236.SS,-2,False,5
+600236.SS,-2,True,5
+600236.SS,-2,False,5
+600409.SS,-2,False,5
+600409.SS,-2,False,5
+600409.SS,-2,False,5
+600409.SS,-2,False,5
+600409.SS,-2,False,5
+600459.SS,-2,False,0
+600674.SS,-2,False,5
+600674.SS,-2,True,5
+600674.SS,-2,False,5
+600674.SS,-2,False,5
+600674.SS,-2,False,5
+600795.SS,-2,False,6
+600795.SS,-2,False,6
+600795.SS,-2,False,6
+600795.SS,-2,True,6
+600795.SS,-2,False,6
+600795.SS,-2,True,6
+600886.SS,-2,False,4
+600886.SS,-2,False,4
+600886.SS,-2,True,4
+600886.SS,-2,True,4
+600905.SS,-2,False,0
+600995.SS,-2,False,4
+600995.SS,-2,False,4
+600995.SS,-2,False,4
+600995.SS,-2,False,4
+601088.SS,-2,False,8
+601088.SS,-2,False,8
+601088.SS,-2,False,8
+601088.SS,-2,False,8
+601088.SS,-2,False,8
+601088.SS,-2,False,8
+601088.SS,-2,False,8
+601088.SS,-2,False,8
+6013.T,-2,False,5
+6013.T,-2,False,5
+6013.T,-2,False,5
+6013.T,-2,False,5
+6013.T,-2,False,5
+601778.SS,-2,False,3
+601778.SS,-2,True,3
+601778.SS,-2,False,3
+601991.SS,-2,False,3
+601991.SS,-2,False,3
+601991.SS,-2,False,3
+603212.SS,-2,False,7
+603212.SS,-2,False,7
+603212.SS,-2,False,7
+603212.SS,-2,False,7
+603212.SS,-2,False,7
+603212.SS,-2,False,7
+603212.SS,-2,False,7
+6504.T,-2,False,7
+6504.T,-2,False,7
+6504.T,-2,False,7
+6504.T,-2,False,7
+6504.T,-2,False,7
+6504.T,-2,False,7
+6504.T,-2,False,7
+6806.TW,-2,False,5
+6806.TW,-2,False,5
+6806.TW,-2,False,5
+6806.TW,-2,False,5
+6806.TW,-2,False,5
+688599.SS,-2,False,4
+688599.SS,-2,False,4
+688599.SS,-2,False,4
+688599.SS,-2,False,4
+8031.T,-2,False,9
+8031.T,-2,False,9
+8031.T,-2,False,9
+8031.T,-2,False,9
+8031.T,-2,False,9
+8031.T,-2,False,9
+8031.T,-2,False,9
+8031.T,-2,False,9
+8031.T,-2,False,9
+9505.T,-2,False,4
+9505.T,-2,False,4
+9505.T,-2,False,4
+9505.T,-2,False,4
+9513.T,-2,False,5
+9513.T,-2,False,5
+9513.T,-2,False,5
+9513.T,-2,False,5
+9513.T,-2,False,5
+9531.T,-2,False,8
+9531.T,-2,False,8
+9531.T,-2,False,8
+9531.T,-2,False,8
+9531.T,-2,False,8
+9531.T,-2,False,8
+9531.T,-2,False,8
+9531.T,-2,False,8
+A2.MI,-2,False,6
+A2.MI,-2,False,6
+A2.MI,-2,False,6
+A2.MI,-2,False,6
+A2.MI,-2,False,6
+A2.MI,-2,True,6
+ACOx.TO,-2,False,6
+ACOx.TO,-2,False,6
+ACOx.TO,-2,False,6
+ACOx.TO,-2,False,6
+ACOx.TO,-2,False,6
+ACOx.TO,-2,False,6
+ADAI.NS,-2,False,3
+ADAI.NS,-2,False,3
+ADAI.NS,-2,False,3
+AEP.OQ,-2,False,6
+AEP.OQ,-2,False,6
+AEP.OQ,-2,False,6
+AEP.OQ,-2,False,6
+AEP.OQ,-2,False,6
+AEP.OQ,-2,False,6
+AES.N,-2,False,6
+AES.N,-2,False,6
+AES.N,-2,False,6
+AES.N,-2,False,6
+AES.N,-2,False,6
+AES.N,-2,False,6
+AEV.PS,-2,True,7
+AEV.PS,-2,False,7
+AEV.PS,-2,False,7
+AEV.PS,-2,False,7
+AEV.PS,-2,False,7
+AEV.PS,-2,False,7
+AEV.PS,-2,False,7
+ALS.TO,-2,False,4
+ALS.TO,-2,False,4
+ALS.TO,-2,False,4
+ALS.TO,-2,False,4
+AP.PS,-2,False,4
+AP.PS,-2,False,4
+AP.PS,-2,False,4
+AP.PS,-2,True,4
+ARG.CN,-2,False,7
+ARG.CN,-2,False,7
+ARG.CN,-2,False,7
+ARG.CN,-2,False,7
+ARG.CN,-2,False,7
+ARG.CN,-2,False,7
+ARG.CN,-2,False,7
+AVA.N,-2,False,4
+AVA.N,-2,False,4
+AVA.N,-2,False,4
+AVA.N,-2,False,4
+AVNT.NS,-2,False,4
+AVNT.NS,-2,False,4
+AVNT.NS,-2,False,4
+AVNT.NS,-2,False,4
+AWR.N,-2,False,3
+AWR.N,-2,False,3
+AWR.N,-2,False,3
+AY.OQ,-2,False,4
+AY.OQ,-2,False,4
+AY.OQ,-2,False,4
+AY.OQ,-2,False,4
+BEPC.N,-2,True,6
+BEPC.N,-2,True,6
+BEPC.N,-2,False,6
+BEPC.N,-2,False,6
+BEPC.N,-2,True,6
+BEPC.N,-2,True,6
+BEP_u.TO,-2,False,6
+BEP_u.TO,-2,False,6
+BEP_u.TO,-2,False,6
+BEP_u.TO,-2,False,6
+BEP_u.TO,-2,False,6
+BEP_u.TO,-2,False,6
+BKH.N,-2,False,7
+BKH.N,-2,False,7
+BKH.N,-2,False,7
+BKH.N,-2,False,7
+BKH.N,-2,False,7
+BKH.N,-2,False,7
+BKH.N,-2,False,7
+BN.N,-2,False,7
+BN.N,-2,True,7
+BN.N,-2,False,7
+BN.N,-2,False,7
+BN.N,-2,False,7
+BN.N,-2,False,7
+BN.N,-2,False,7
+BP.L,-2,False,5
+BP.L,-2,False,5
+BP.L,-2,False,5
+BP.L,-2,False,5
+BP.L,-2,False,5
+CBAV3.SA,-2,False,4
+CBAV3.SA,-2,False,4
+CBAV3.SA,-2,False,4
+CBAV3.SA,-2,True,4
+CMIG4.SA,-2,False,6
+CMIG4.SA,-2,False,6
+CMIG4.SA,-2,False,6
+CMIG4.SA,-2,False,6
+CMIG4.SA,-2,False,6
+CMIG4.SA,-2,False,6
+CMS.N,-2,False,3
+CMS.N,-2,False,3
+CMS.N,-2,False,3
+CPFE3.SA,-2,True,5
+CPFE3.SA,-2,False,5
+CPFE3.SA,-2,False,5
+CPFE3.SA,-2,False,5
+CPFE3.SA,-2,False,5
+CRBR.NS,-2,False,6
+CRBR.NS,-2,False,6
+CRBR.NS,-2,False,6
+CRBR.NS,-2,False,6
+CRBR.NS,-2,False,6
+CRBR.NS,-2,False,6
+CSNA3.SA,-2,False,7
+CSNA3.SA,-2,False,7
+CSNA3.SA,-2,False,7
+CSNA3.SA,-2,False,7
+CSNA3.SA,-2,False,7
+CSNA3.SA,-2,False,7
+CSNA3.SA,-2,False,7
+CU.TO,-2,False,6
+CU.TO,-2,False,6
+CU.TO,-2,False,6
+CU.TO,-2,False,6
+CU.TO,-2,False,6
+CU.TO,-2,False,6
+DEHr.AT,-2,True,7
+DEHr.AT,-2,False,7
+DEHr.AT,-2,False,7
+DEHr.AT,-2,False,7
+DEHr.AT,-2,False,7
+DEHr.AT,-2,False,7
+DEHr.AT,-2,False,7
+DUK.N,-2,False,4
+DUK.N,-2,False,4
+DUK.N,-2,False,4
+DUK.N,-2,False,4
+EDP.LS,-2,False,6
+EDP.LS,-2,False,6
+EDP.LS,-2,False,6
+EDP.LS,-2,False,6
+EDP.LS,-2,False,6
+EDP.LS,-2,False,6
+ELE.MC,-2,False,4
+ELE.MC,-2,False,4
+ELE.MC,-2,False,4
+ELE.MC,-2,False,4
+ELET6.SA,-2,False,4
+ELET6.SA,-2,True,4
+ELET6.SA,-2,False,4
+ELET6.SA,-2,False,4
+EMA.TO,-2,False,6
+EMA.TO,-2,False,6
+EMA.TO,-2,False,6
+EMA.TO,-2,False,6
+EMA.TO,-2,False,6
+EMA.TO,-2,False,6
+ENAE.WA,-2,False,6
+ENAE.WA,-2,False,6
+ENAE.WA,-2,False,6
+ENAE.WA,-2,False,6
+ENAE.WA,-2,False,6
+ENAE.WA,-2,False,6
+ENEI.MI,-2,False,10
+ENEI.MI,-2,False,10
+ENEI.MI,-2,False,10
+ENEI.MI,-2,False,10
+ENEI.MI,-2,False,10
+ENEI.MI,-2,False,10
+ENEI.MI,-2,False,10
+ENEI.MI,-2,False,10
+ENEI.MI,-2,False,10
+ENEI.MI,-2,False,10
+ENGIE.PA,-2,False,7
+ENGIE.PA,-2,False,7
+ENGIE.PA,-2,False,7
+ENGIE.PA,-2,False,7
+ENGIE.PA,-2,True,7
+ENGIE.PA,-2,False,7
+ENGIE.PA,-2,False,7
+ENJSA.IS,-2,False,4
+ENJSA.IS,-2,True,4
+ENJSA.IS,-2,False,4
+ENJSA.IS,-2,False,4
+ENLT.TA,-2,False,4
+ENLT.TA,-2,True,4
+ENLT.TA,-2,False,4
+ENLT.TA,-2,False,4
+EONGn.DE,-2,False,12
+EONGn.DE,-2,False,12
+EONGn.DE,-2,False,12
+EONGn.DE,-2,False,12
+EONGn.DE,-2,True,12
+EONGn.DE,-2,False,12
+EONGn.DE,-2,False,12
+EONGn.DE,-2,False,12
+EONGn.DE,-2,False,12
+EONGn.DE,-2,False,12
+EONGn.DE,-2,True,12
+EONGn.DE,-2,False,12
+ETR.N,-2,False,4
+ETR.N,-2,False,4
+ETR.N,-2,False,4
+ETR.N,-2,False,4
+EXC.OQ,-2,False,6
+EXC.OQ,-2,False,6
+EXC.OQ,-2,False,6
+EXC.OQ,-2,False,6
+EXC.OQ,-2,False,6
+EXC.OQ,-2,False,6
+FGEN.PS,-2,False,8
+FGEN.PS,-2,False,8
+FGEN.PS,-2,True,8
+FGEN.PS,-2,False,8
+FGEN.PS,-2,False,8
+FGEN.PS,-2,True,8
+FGEN.PS,-2,False,8
+FGEN.PS,-2,False,8
+FORTUM.HE,-2,False,8
+FORTUM.HE,-2,False,8
+FORTUM.HE,-2,False,8
+FORTUM.HE,-2,False,8
+FORTUM.HE,-2,False,8
+FORTUM.HE,-2,False,8
+FORTUM.HE,-2,False,8
+FORTUM.HE,-2,False,8
+FTEK.OQ,-2,False,2
+FTEK.OQ,-2,False,2
+FTS.TO,-2,False,10
+FTS.TO,-2,False,10
+FTS.TO,-2,False,10
+FTS.TO,-2,False,10
+FTS.TO,-2,False,10
+FTS.TO,-2,False,10
+FTS.TO,-2,False,10
+FTS.TO,-2,False,10
+FTS.TO,-2,False,10
+FTS.TO,-2,False,10
+GEG.HM,-2,False,5
+GEG.HM,-2,False,5
+GEG.HM,-2,False,5
+GEG.HM,-2,False,5
+GEG.HM,-2,False,5
+GPSC.BK,-2,False,3
+GPSC.BK,-2,False,3
+GPSC.BK,-2,False,3
+HARL.L,-2,False,4
+HARL.L,-2,False,4
+HARL.L,-2,True,4
+HARL.L,-2,False,4
+HDG.HM,-2,False,5
+HDG.HM,-2,False,5
+HDG.HM,-2,False,5
+HDG.HM,-2,False,5
+HDG.HM,-2,True,5
+HE.N,-2,False,3
+HE.N,-2,False,3
+HE.N,-2,False,3
+HEGL.NS,-2,True,3
+HEGL.NS,-2,False,3
+HEGL.NS,-2,False,3
+HOLMb.ST,-2,False,6
+HOLMb.ST,-2,False,6
+HOLMb.ST,-2,False,6
+HOLMb.ST,-2,False,6
+HOLMb.ST,-2,False,6
+HOLMb.ST,-2,True,6
+IBE.MC,-2,False,4
+IBE.MC,-2,True,4
+IBE.MC,-2,True,4
+IBE.MC,-2,True,4
+IDA.N,-2,False,3
+IDA.N,-2,False,3
+IDA.N,-2,False,3
+IDC.HN,-2,False,0
+LIGT3.SA,-2,False,5
+LIGT3.SA,-2,False,5
+LIGT3.SA,-2,False,5
+LIGT3.SA,-2,False,5
+LIGT3.SA,-2,False,5
+MGEE.OQ,-2,False,4
+MGEE.OQ,-2,False,4
+MGEE.OQ,-2,False,4
+MGEE.OQ,-2,False,4
+MPLF.PSX,-2,False,3
+MPLF.PSX,-2,False,3
+MPLF.PSX,-2,False,3
+NCLI.NS,-2,False,6
+NCLI.NS,-2,True,6
+NCLI.NS,-2,False,6
+NCLI.NS,-2,False,6
+NCLI.NS,-2,False,6
+NCLI.NS,-2,False,6
+NEOE3.SA,-2,False,0
+NLCI.NS,-2,False,2
+NLCI.NS,-2,False,2
+NRG.N,-2,False,4
+NRG.N,-2,False,4
+NRG.N,-2,False,4
+NRG.N,-2,False,4
+NTPC.NS,-2,False,2
+NTPC.NS,-2,False,2
+ODAS.IS,-2,False,5
+ODAS.IS,-2,False,5
+ODAS.IS,-2,False,5
+ODAS.IS,-2,False,5
+ODAS.IS,-2,False,5
+ORK.OL,-2,False,10
+ORK.OL,-2,False,10
+ORK.OL,-2,False,10
+ORK.OL,-2,False,10
+ORK.OL,-2,False,10
+ORK.OL,-2,False,10
+ORK.OL,-2,False,10
+ORK.OL,-2,False,10
+ORK.OL,-2,False,10
+ORK.OL,-2,False,10
+PAFO.NS,-2,False,7
+PAFO.NS,-2,True,7
+PAFO.NS,-2,False,7
+PAFO.NS,-2,False,7
+PAFO.NS,-2,False,7
+PAFO.NS,-2,False,7
+PAFO.NS,-2,False,7
+PC1.HM,-2,False,6
+PC1.HM,-2,True,6
+PC1.HM,-2,False,6
+PC1.HM,-2,False,6
+PC1.HM,-2,False,6
+PC1.HM,-2,False,6
+PEG.N,-2,False,4
+PEG.N,-2,False,4
+PEG.N,-2,False,4
+PEG.N,-2,False,4
+PGRD.NS,-2,True,4
+PGRD.NS,-2,False,4
+PGRD.NS,-2,True,4
+PGRD.NS,-2,False,4
+PIF.TO,-2,True,3
+PIF.TO,-2,False,3
+PIF.TO,-2,True,3
+PTCI.NS,-2,False,3
+PTCI.NS,-2,True,3
+PTCI.NS,-2,False,3
+RATCH.BK,-2,False,4
+RATCH.BK,-2,True,4
+RATCH.BK,-2,False,4
+RATCH.BK,-2,False,4
+RITS.NS,-2,False,6
+RITS.NS,-2,False,6
+RITS.NS,-2,False,6
+RITS.NS,-2,False,6
+RITS.NS,-2,False,6
+RITS.NS,-2,False,6
+ROH2O.BX,-2,False,3
+ROH2O.BX,-2,False,3
+ROH2O.BX,-2,False,3
+RWEG.DE,-2,False,7
+RWEG.DE,-2,False,7
+RWEG.DE,-2,False,7
+RWEG.DE,-2,False,7
+RWEG.DE,-2,True,7
+RWEG.DE,-2,False,7
+RWEG.DE,-2,False,7
+SHEL.L,-2,False,5
+SHEL.L,-2,False,5
+SHEL.L,-2,False,5
+SHEL.L,-2,False,5
+SHEL.L,-2,False,5
+SO.N,-2,False,6
+SO.N,-2,False,6
+SO.N,-2,False,6
+SO.N,-2,False,6
+SO.N,-2,True,6
+SO.N,-2,False,6
+SPI.OQ,-2,True,1
+SRG.MI,-2,False,4
+SRG.MI,-2,False,4
+SRG.MI,-2,False,4
+SRG.MI,-2,False,4
+SSE.L,-2,False,10
+SSE.L,-2,False,10
+SSE.L,-2,False,10
+SSE.L,-2,False,10
+SSE.L,-2,False,10
+SSE.L,-2,False,10
+SSE.L,-2,False,10
+SSE.L,-2,False,10
+SSE.L,-2,False,10
+SSE.L,-2,False,10
+SVT.L,-2,False,4
+SVT.L,-2,False,4
+SVT.L,-2,False,4
+SVT.L,-2,False,4
+SXC.N,-2,False,5
+SXC.N,-2,False,5
+SXC.N,-2,False,5
+SXC.N,-2,False,5
+SXC.N,-2,False,5
+TA.TO,-2,False,7
+TA.TO,-2,True,7
+TA.TO,-2,False,7
+TA.TO,-2,False,7
+TA.TO,-2,True,7
+TA.TO,-2,False,7
+TA.TO,-2,True,7
+TCIL.NS,-2,False,6
+TCIL.NS,-2,False,6
+TCIL.NS,-2,False,6
+TCIL.NS,-2,False,6
+TCIL.NS,-2,False,6
+TCIL.NS,-2,False,6
+TTPW.NS,-2,True,5
+TTPW.NS,-2,False,5
+TTPW.NS,-2,False,5
+TTPW.NS,-2,True,5
+TTPW.NS,-2,False,5
+UN01.DE,-2,False,4
+UN01.DE,-2,False,4
+UN01.DE,-2,False,4
+UN01.DE,-2,False,4
+UNACEMC1.LM,-2,False,5
+UNACEMC1.LM,-2,False,5
+UNACEMC1.LM,-2,False,5
+UNACEMC1.LM,-2,True,5
+UNACEMC1.LM,-2,False,5
+VERB.VI,-2,False,6
+VERB.VI,-2,False,6
+VERB.VI,-2,False,6
+VERB.VI,-2,False,6
+VERB.VI,-2,False,6
+VERB.VI,-2,True,6
+XEL.OQ,-2,False,4
+XEL.OQ,-2,False,4
+XEL.OQ,-2,False,4
+XEL.OQ,-2,False,4
